@@ -185,9 +185,6 @@ def create_transformed_bucket():
     except Exception as e:
         print(f"Error: {e}")
 
-def read_local_csv():
-    csv_data = pd.read_csv('data/transformed_data.csv')
-    return csv_data
 
 
 # Write data to S3 Bucket
@@ -211,14 +208,77 @@ def write_to_s3(data):
     except Exception as e:
         print(f"Error: {e}")
 
-# # Call the functions
 
 # print('JSON FILE FINALLY UPLOADED TO S3 BUCKECT')
 
 # #create_transformed_bucket()
-csv_data = read_local_csv()
-write_to_s3(csv_data)
+# csv_data = read_local_csv()
+# write_to_s3(csv_data)
 
+
+def read_local_csv(file_data):
+    csv_data = pd.read_csv(file_data)
+    return csv_data
+
+def get_redshift_connection():
+    iam_role = config.get('ARN')
+    user = config.get('USER')
+    password = config.get('PASSWORD')
+    host = config.get('HOST')
+    database_name = config.get('DATABASE_NAME')
+    port = config.get('PORT')
+    transformed_bucket_name=config.get('TRANSFORMED_DATA')
+    conn = psycopg2.connect(f'postgresql://{user}:{password}@{host}:{port}/{database_name}')
+    return conn
+
+def execute_sql(sql_query, conn):
+    conn = get_redshift_connection()
+    cur = conn.cursor() # Creating a cursor object for executing SQL query
+    cur.execute(sql_query)
+    conn.commit()
+    cur.close() # Close cursor
+    conn.close() # Close connection
+
+
+def generate_schema(data, table_name = 'job_data'):
+    create_table_statement = f'CREATE TABLE IF NOT EXISTS {table_name}(\n'
+    column_type_query = ''
+    
+    types_checker = {
+        'INT':pd.api.types.is_integer_dtype,
+        'VARCHAR':pd.api.types.is_string_dtype,
+        'FLOAT':pd.api.types.is_float_dtype,
+        'TIMESTAMP':pd.api.types.is_datetime64_any_dtype,
+        'OBJECT':pd.api.types.is_dict_like,
+        'ARRAY':pd.api.types.is_list_like,
+    }
+    for column in data: # Iterate through all the columns in the dataframe
+        last_column = list(data.columns)[-1] # Get the name of the last column
+        for type_ in types_checker: 
+            mapped = False
+            if types_checker[type_](data[column]): # Check each column against data types in the type_checker dictionary
+                mapped = True # A variable to store True of False if there's type is found. Will be used to raise an exception if type not found
+                if column != last_column: # Check if the column we're checking its type is the last comlumn
+                    column_type_query += f'{column} {type_},\n' # 
+                else:
+                    column_type_query += f'{column} {type_}\n'
+                break
+        if not mapped:
+            raise ('Type not found')
+    column_type_query += ');'
+    output_query = create_table_statement + column_type_query
+    return output_query
+
+
+
+data = read_local_csv('data/transformed_data.csv')
+query =generate_schema(data)
+print(query) # this generate the schema
+
+
+
+
+        
     
 
 
