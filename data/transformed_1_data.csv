@@ -1,0 +1,1219 @@
+employer_website,job_id,job_employment_type,job_title,job_apply_link,job_description,job_city,job_country,job_posted_at_timestamp,employer_company_type
+https://www.walmart.com,nW4vnpiliVf31j20AAAAAA==,FULLTIME,(USA) Principal Data Scientist,"https://www.ziprecruiter.com/c/Walmart/Job/(USA)-Principal-Data-Scientist/-in-East-Meadow,NY?jid=0d96d80efd2c2baa","Position Summary...
+
+What you'll do...
+
+We are at the forefront of attacking one of the most complex problems of e-commerce. Whenever a user types in a query or browses through product categories on the web site, phone or the iPad, our service goes to work. We mine billions of search queries and tens of millions of products to find the most relevant products for our customers. Team members take end-end responsibility in analyzing large amounts of data, creating complex models, improving their accuracy and deploying these models to serve customers.
+
+As part of this team, you'll solve some of the most fascinating and impactful problems in machine learning, information retrieval, NLP or computer vision problems. The algorithms you develop will champion customers need to express their intent and our goal to understand their preferences, implicitly or explicitly across devices and modalities (voice, text, image etc.). You will develop and deploy machine learned models, to engage and converse with our customers and to understand their goals and expectations to enable them to make the right purchase decision. Your work will be visible to millions of customers and you will have a direct impact on the goals of the Fortune #1 enterprise. If you speak and think machine learning then we want to talk to you. Come join our team and be part of this exciting journey.
+
+About Team:
+Our team works closely with our US stores and eCommerce business to better serve customers by empowering team members, stores, and merchants with technological innovation. From groceries and entertainment to sporting goods and crafts, Walmart U.S. offers an extensive selection that our customers value, whether they shop online at Walmart.com, through one of our mobile apps, or in-store. Focus areas include customers, stores and employees, in-store service, merchant tools, merchant data science, and search and personalization.
+
+What you'll do:
+• Applying machine learning ranking algorithms to maximize the relevance of search system and minimize risks.
+• Building, validating, testing and deploying predictive models using machine learning techniques to explain or predict behavior and solve a variety of business and engineering problems.
+• Identifying, collecting, and exploring the right data used for predictive modeling and algorithm development.
+• Performing and leading developments using machine learning techniques in one or more of the key areas like natural language processing, computer vision, information retrieval, entity recognition, product classification, and recommender system.
+
+What you'll bring:
+• You have 5+ years of work and research experience in the machine learning field with a deep understanding of machine learning and interest in applying it at scale.
+• You have experience with data cleaning, preparation, and featurization and selection techniques.
+• You have experience working with large data sets to solve problems.
+• You have experience with deep learning library like TensorFlow and/or PyTorch is highly desirable as well as experience with Spark and/or Hadoop.
+• You have/had hands-on experience with Python, Java or Scala and the ability to write reusable and efficient code to automate machine learning pipeline and data processes.
+• You have effective communication, interpersonal and teamwork skills.
+• You have the ability to handle multiple concurrent projects while working independently and in teams.
+• You can work in a fast-paced and deadline driven environment.
+• Ph.D. or Master's degree in Computer Science, Statistics, Artificial Intelligence, Operations Research, Mathematics, Electrical Engineering, Computational Linguistics or related fields.
+
+About Walmart Global Tech
+Imagine working in an environment where one line of code can make life easier for hundreds of millions of people. That's what we do at Walmart Global Tech. We're a team of software engineers, data scientists, cybersecurity expert's and service professionals within the world's leading retailer who make an epic impact and are at the forefront of the next retail disruption. People are why we innovate, and people power our innovations. We are people-led and tech-empowered. We train our team in the skillsets of the future and bring in experts like you to help us grow. We have roles for those chasing their first opportunity as well as those looking for the opportunity that will define their career. Here, you can kickstart a great career in tech, gain new skills and experience for virtually every industry, or leverage your expertise to innovate at scale, impact millions and reimagine the future of retail.
+
+Flexible, hybrid work:
+We use a hybrid way of working that is primarily in office coupled with virtual when not onsite. Our campuses serve as a hub to enhance collaboration, bring us together for purpose and deliver on business needs. This approach helps us make quicker decisions, remove location barriers across our global team and be more flexible in our personal lives.
+
+Benefits:
+Benefits: Beyond our great compensation package, you can receive incentive awards for your performance. Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more.
+
+Equal Opportunity Employer:
+Walmart, Inc. is an Equal Opportunity Employer - By Choice. We believe we are best equipped to help our associates, customers and the communities we serve live better when we really know them. That means understanding, respecting and valuing diversity- unique styles, experiences, identities, ideas and opinions - while being inclusive of all people.
+
+The above information has been designed to indicate the general nature and level of work performed in the role. It is not designed to contain or be interpreted as a comprehensive inventory of all responsibilities and qualifications required of employees assigned to this job. The full Job Description can be made available as part of the hiring process.
+
+Minimum Qualifications...
+
+Outlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.
+
+Option 1: Bachelors degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology or related field and 5 years' experience in an analytics related field. Option 2: Masters degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology or related field and 3 years' experience in an analytics related field. Option 3: 7 years' experience in an analytics or related field
+
+Preferred Qualifications...
+
+Outlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.
+
+Data science, machine learning, optimization models, PhD in Machine Learning, Computer Science, Information Technology, Operations Research, Statistics, Applied Mathematics, Econometrics, Publications or active peer reviewer in related journals or conference, Successful completion of one or more assessments in Python, Spark, Scala, or R, Using open source frameworks (for example, scikit learn, tensorflow, torch)
+
+Primary Location...
+221 RIVER ST, HOBOKEN, NJ 07030, United States of America",East Meadow,US,1970-01-01,Retail
+http://www.komatsu.com,yvN219ZdI_7D5Wg3AAAAAA==,INTERN,Data Scientist Intern,https://ai-jobs.net/job/106614-data-scientist-intern/,"Komatsu is an indispensable partner to the construction, mining, forestry, forklift, and industrial machinery markets, maximizing value for customers through innovative solutions. With a diverse line of products supported by our advanced IoT technologies, regional distribution channels, and a global service network, we tap into the power of data and technology to enhance safety and productivity while optimizing performance. Komatsu supports a myriad of markets, including housing, infrastructure, water, pipeline, minerals, automobile, aerospace, electronics and medical, through its many brands and subsidiaries, including TimberPro, Joy, P&H, Montabert, Modular Mining Systems, Hensley Industries, NTC, and Gigaphoton. Job Overview The internship will be based in our Warrendale, PA office. Interested candidates in computer data science and machine learning programs are welcome to apply. During the internship you will be part of the global team that is responsible for developing and researching machine learning and data analytics. Key Job Responsibilities As a data scientist you will specialize and contribute to the development of analytics for products that operate globally. You will get exposure to work with live datasets that are hosted in our secure Cloud platform and apply your knowledge to solving real-world problems. Focus will be on the design, implement and evaluate the use of analytic algorithms on these large datasets. Key skills that you will further develop during your internship with us are (i) machine learning with large data sets, (ii) text mining, (iii) applying statistical techniques and (iv) developing graphical models. Qualifications/Requirements Pursuing a Graduate or Postdoctoral degree in Computational Data Science, Computer Science, Machine Learning or Artificial Intelligence Proven strengths in data science and analytics development with large datasets Additional Information Komatsu is an Equal Opportunity Workplace and an Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or protected veteran status.",,US,1970-01-01,Manufacturing
+http://www.wayfair.com,qdsYicgtZXbQXdp-AAAAAA==,FULLTIME,"Senior Manager, Data Science Analytics",https://wellfound.com/jobs/2138319-senior-manager-data-science-analytics,"Wayfair Analytics is the engine that powers an enterprise obsessed with data, where Data Science plays an ever-increasing role in how we serve our customers. This role will directly enable the growth of the Product Information Extraction (PIE) project at Wayfair. The team is responsible for programmatically extracting, imputing and validating product information to streamline the addition of new products into the catalog. Our objective is to improve both the end customer experience and Wayfair’s internal efficiency by ensuring product investment throughout the value chain. The team heavily leverages Data Science and Machine Learning, as well as Analytics, to achieve these goals.
+
+The Data Science Analytics team leverages Wayfair’s huge datasets to inform the roadmap of our Data Science / Machine Learning development. We work in close collaboration with a high performing team of engineers, machine learning engineers/data scientists and product managers who are on the leading edge of Data Science.
+
+In this role, you can expect to lead a team to integrate our Data Science-driven recommendations into new use cases within Wayfair, working closely with business stakeholders and product managers to drive measurable outcomes. You / your team will work closely with product managers, data scientists and engineers to define, implement, and maintain key metrics that inform the health / successes of our product. You / your team will do exploratory data analysis to generate new insights & inform our roadmap.
+
+What You'll Do
+• You will be responsible for managing a team of data analysts that are embedded in our data science workstreams. Set a high bar and level up the team's technical capabilities and business awareness
+• Influence cross-functional executive leaders across the organization through communicating key insights and recommendations. You will have to persuade stakeholders with differing levels of analytical proficiency
+• Define the 6-12 month strategic analytics roadmap for the team, in collaboration with our stakeholders
+• Build and innovate scalable processes for model performance monitoring and related components like data quality and data engineering. Also responsible for metrics definition, reporting and translating into business KPI impact
+• Cooperate closely with Data Scientists, Engineers and business stakeholders, contributing to the cross-functional partnership, strategy and roadmap
+• Further build the team and an inclusive working environment by creating and developing the team vision, strategy and OKRs
+• Partner closely with tech enablement teams in Infrastructure and Data Engineering, and influence their roadmap based on the needs of the data science team
+• Uncover and understand insights hidden in our vast repository of raw data, provide and share tactical guidance on how to act on findings
+• Set a high bar and level up the team's technical capabilities and business strategic thinking
+• Deliver presentations with compelling visualization and storytelling to business stakeholders, to support data-driven decision making and ultimately enhance the experience of our customers and our suppliers
+
+What You'll Need
+• 5+ years of work experience in a data analytical role wrangling with large-scale data
+• Demonstrated ability to build, develop and manage high performing team to deliver business impact with track record, particularly in a cross-functional and multi-stakeholder environments
+• Strong quantitative skills, knowledge and experience with various analytical methods including statistics and experimentation.
+• Strong communication skills – ability to synthesize conclusions for non-experts and desire to influence business direction
+• Experience in aligning quantitative and technical work closely with business priorities and business value
+• Mastery of writing SQL queries; experience with programming (Python/R), big data frameworks and cloud-based analytics tools (preferably GCP)
+• Prior hands on experience of building tools, reporting and analytics for performance evaluation of machine learning models
+• Strive in a dynamic, fast paced environment
+
+About Wayfair Inc.
+
+Wayfair is one of the world’s largest online destinations for the home. Whether you work in our global headquarters in Boston or Berlin, or in our warehouses or offices throughout the world, we’re reinventing the way people shop for their homes. Through our commitment to industry-leading technology and creative problem-solving, we are confident that Wayfair will be home to the most rewarding work of your career. If you’re looking for rapid growth, constant learning, and dynamic challenges, then you’ll find that amazing career opportunities are knocking.
+
+No matter who you are, Wayfair is a place you can call home. We’re a community of innovators, risk-takers, and trailblazers who celebrate our differences, and know that our unique perspectives make us stronger, smarter, and well-positioned for success. We value and rely on the collective voices of our employees, customers, community, and suppliers to help guide us as we build a better Wayfair – and world – for all. Every voice, every perspective matters. That’s why we’re proud to be an equal opportunity employer. We do not discriminate on the basis of race, color, ethnicity, ancestry, religion, sex, national origin, sexual orientation, age, citizenship status, marital status, disability, gender identity, gender expression, veteran status, or genetic information.
+
+Wayfair focuses on E-Commerce, Home & Garden, Home Decor, and Furniture. Their company has offices in Boston and Berlin. They have a large team that's between 501-1000 employees. To date, Wayfair has raised $716M of funding; their latest round was closed on October 2014 at a valuation of $2.4B.
+
+You can view their website at http://www.wayfair.com/ or find them on Twitter, Facebook, and LinkedIn.",Seattle,US,1970-01-01,Retail
+,xMDTWbVRy4-ArGhyAAAAAA==,CONTRACTOR,Data Scientist,https://www.linkedin.com/jobs/view/data-scientist-at-verdant-infotech-solutions-3794063198,"Title: Data Scientist/Machine-Learning Engineer
+
+Client: Vendor will let know consultant over the phone
+
+Location: Onsite 1 day/week in Hyattsville, MD. Must be local.
+
+Visa: USC only
+
+Duration: 6 Months CTH
+
+Interview: 2 interviews
+
+Need updated LinkedIn with profile Pic.
+
+Job Description:
+
+Requirements:
+• BS/BA in a Computer Science, Engineering, or Mathematics/Statistics field
+• 2+ years of Machine-Learning experience
+• AWS Sagemaker
+• LLM (Llama, Mistral, etc.)
+• R or Python
+• AWS Certifications (Data Science, Data Engineer, Solution Architect, Machine-learning, etc.) or similar certification is highly preferred!
+
+Preferred, but not Required:
+• Graduate degree in Data Science or other quantitative fields such as Statistics
+• Is a Certified Analytics Professional (CAP), or Open Group Certified Data Scientist
+• Java experience
+• TensorFlow experience
+
+Job Description:
+
+· Construct algorithms and writing computer programs to perform Descriptive (what happened), Diagnostic (why it happened), Predictive (what will happen), and Prescriptive analytics on large datasets
+
+· Identify/Assess/Validate data sources and create automated collection processes, as well as assess the effectiveness and accuracy of new data sources and data gathering techniques.
+
+· Undertake the preprocessing of structured and unstructured data
+
+· Build predictive models and machine-learning algorithms; also, develop custom data models and algorithms to apply to datasets.
+
+· Modify, create, and deploy applications using foundation models and llms, to solve generative AI challenges
+
+· Present information using data visualization techniques
+
+· Propose solutions and strategies to business challenges
+
+· Collaborate with engineering and product development teams to identify opportunities for leveraging company data to drive business solutions.",Hyattsville,US,1970-01-01,
+http://www.salesforce.com,LGoX6Uj0ucUQqCRGAAAAAA==,FULLTIME,"Director, Software Engineering (Data Analytics)",https://www.karkidi.com/job-details/19107-director-software-engineering-data-analytics-job,"Company Overview
+
+Salesforce is the global leader in customer relationship management (CRM) software. We pioneered the shift to cloud computing, and today we're delivering the next generation of social, mobile, and cloud technologies that help companies revolutionize the way they sell, service, market, and innovate and become customer companies. We are the fastest growing of the top 10 enterprise software companies, the World's Most Innovative Company according to Forbes, and one of Fortune's 100 Best Companies to Work For. Our more human, less corporate culture is built around doing work that matters, winning as a team, and celebrating success Aloha-style. Ready to find your #dreamjob?
+
+The Team
+
+We are defining the next generation of trusted enterprise computing in the cloud. We're a fast-paced, metrics-driven team. We're highly collaborative and work across all areas of our technology stack. We live and breathe transactional systems, distributed systems, and enterprise reliability, availability, and scale.
+
+Desired Skills and Experience
+
+The team is seeking a highly qualified and energetic Director / Senior Director who will be responsible for driving and executing our vision and for managing and leading a team of exceptional developers working on data analytics and observability layers of the Salesforce Transactional and Distributed Storage Systems. Desired skills:
+• Lead teams delivering data analytics for very large datasets in enterprise production environments
+• Excellent understanding of an ML-based product lifecycle
+• Drive the execution and delivery of features by collaborating with many cross-functional teams, architects, product owners, engineers and data scientists
+• Vocally advocating for technical excellence and helping the teams make good decisions
+• Inventive and creative; on task and able to deliver incrementally and on time
+• Familiar with Agile development methodology and committed to continuous improvement of team performance
+• Effective communication, strong leadership skills, ability to dive deep into the technical details
+• Ability to prioritize in a rapidly changing environment; communicate clearly to steer a talented team to deliver high quality service
+• Experience in building strong, successful technical teams, coaching and mentoring individuals along their career paths
+• Maintaining and fostering our culture by interviewing and hiring only the most qualified individuals
+
+Qualifications
+• MS or higher degree in Computer Science
+• 10+ years in managing software development teams of at least 10 engineers working on customer-facing enterprise product
+• Strong technical credentials in software development, in particular in areas such as advanced analytics, data science, data engineering and automation using advanced machine learning techniques
+• Proven track record of delivering and supporting large scale enterprise products and services in Public Cloud
+• Experience owning and operating mission-critical infrastructure and analytical services including, monitoring, alerting, logging, and reporting applications",New York,US,1970-01-01,Information
+http://www.basf.com,gZKem8DdrjfZb3jkAAAAAA==,FULLTIME,R&D Digitalization Team Lead & Data Scientist,https://ai-jobs.net/job/95242-rd-digitalization-team-lead-data-scientist/,"R&D Digitalization Team Lead & Data Scientist – Charlotte, NC At BASF, we create chemistry through the power of connected minds. By balancing economic success with environmental protection and social responsibility, we are building a more sustainable future through chemistry. As the world’s leading chemical company, we help our customers in nearly every industry meet the current and future needs of society through science and innovation. We provide a challenging and rewarding work environment with a strong emphasis on process safety, as well as the safety of our employees and the communities we operate in and are always working to form the best team—especially from within, through an emphasis on lifelong learning and development. Where the Chemistry Happens This role reports functionally to the global Head of Digitalization Group (Ludwigshafen, Germany) and administratively to NA R&D regional heads (Charlotte, NC). In this R&D Leadership role you will be part of a global digitalization team and contribute towards ED’s global R&D vision for digital transformation. You will be responsible for managing and steering the regional digitalization team (data analyst, automation specialist, data & change manager), and execution of EDI digitalization strategy in Charlotte NC. In this position, you will develop and execute the NA digitalization and automation pipeline in alignment with the global team and digitalization strategy. Formula for Success: As an integrated member of our global EDI R&D team, you will be responsible for analyzing large sets of R&D data, developing predictive models, and identifying new research opportunities. You will work closely with chemists and other scientists to both employ statistics-based experiments and develop new products using data-first principles. You will apply your advanced data analytics, artificial intelligence/machine learning knowledge and experience to interact with business and R&D stakeholders, and identify new problems and opportunities. You will lead a digitalization team and data science projects in close collaboration with R&D scientists to capitalize on the vast amounts of experimental data, understand business needs, and improve R&D efficiency to expedite the delivery of new products and solutions to our customers. This will include: Further develop and execute the North American regional Digital Roadmap for R&D, based on the levers: data management, standardization, automation and modeling Align regional digitalization priorities with the global digitalization team and ensure regional compliance with the global digitalization goals Plan and disciplinarily lead personnel resources Plan investment in and implements required equipment & software Use data mining, data visualization, machine learning, and programming skills to help the R&D organization extract value from data. Enable change and push the R&D organization to adopt a data-first approach to innovation. Identify opportunities for the wider use of data science, statistics, and machine learning techniques in the R&D teams and projects. Work with lab team leaders in the use of design of experiment approaches and help them build-up non-biased data sets and adhere to FAIR data principles. Support the use of user-friendly algorithms, DoE tools, and modeling platforms by non-data scientists. Proactively identify opportunities to optimize the systems and services and feel comfortable pitching and promoting these ideas. Work and cooperate in interdisciplinary ED project teams, including global data scientists, chemists, process engineers, and IT experts. Stay up to date with the latest advancements in data science and chemical industry research and maintain contact with the BASF and external data science communities What we Look for in You: Master’s degree in Chemical Engineering, Computer Science, Data Science, Computational Science, Statistics, Physics, the Natural Sciences or related field with minimum 4-6 (or 2-3 years’) years’ experience in modeling or data science in the chemical industry, preferably with a PhD with 2 years’ experience. A very good command of English is necessary for this role. Good knowledge of a script or computer language (e.g. Python, Scala, Java, etc.). Experience with database management and data pipelines. Both traditional and agile project management experience desirable Analytical and future-oriented way of thinking, with high motivation in driving innovative and sustainable solutions with autonomy Knowledge of polymer chemistry and structure-property relationships is an asset Proficiency with databases and data analysis software such as SQL, Citrix, SAS, R, SPSS, MATLAB, Excel, and Access Create Your Own Chemistry: What We Offer You Adding value to our customers begins with adding value to you. You@BASF is the suite of benefits, perks, programs and unique opportunities we offer to support you—the whole you—in all stages of your life and career. With you@BASF, you create your own chemistry. The total rewards that you receive as a BASF employee go way beyond a paycheck. From competitive health and insurance plans, to robust retirement benefits that include company-matching contributions, to making sure you never stop learning, we believe investing in you is investing in our success. Working for a large, global organization, you’ll have a chance to grow professionally and personally, expand your network and build a rewarding and dynamic career. BASF provides interesting and challenging learning and development opportunities to help you make the most of your talents and your job. #dispersionsresins&additives",,US,1970-01-01,Manufacturing
+http://www.hays.com,4ScRYh4sXEGe-8O1AAAAAA==,CONTRACTOR,Data Scientist/Machine Learning,https://www.linkedin.com/jobs/view/data-scientist-machine-learning-at-hays-3799846534,"Data Scientist/Machine Learning – Contract – Orlando, FL – $80.00-$88.00/hr.
+
+The final salary or hourly wage, as applicable, paid to each candidate/applicant for this position is ultimately dependent on a variety of factors, including, but not limited to, the candidate’s/applicant’s qualifications, skills, and level of experience as well as the geographical location of the position.
+
+The end client is unable to sponsor or transfer visas for this position; all parties authorized to work in the US without sponsorship are encouraged to apply.
+
+Our client is seeking a Data Scientist/Machine Learning in Orlando, FL.
+
+Role Description
+
+As Data Scientist focused on Machine Learning within the Connected Products team your role will involve partnering with team members to identify, research, and create new modeling algorithms using AWS SageMaker. Familiarity with time series data and forecasting models is a requirement for this position. You will implement, troubleshoot, and optimize solutions based on modern cloud technologies. The right candidate will ensure proper security, design, coding standards and policies are followed. They should apply technical expertise to challenging programming and design problems. Strong communication, interpersonal and team skills, including the ability to work effectively in an agile environment. Demonstrated interest and ability to quickly learn new technologies.
+
+• Develop reusable patterns and frameworks as part of the engineering process
+
+• Design and engineer high-performance/large scale AI/ML and automation capability within projects that conform to existing software practices to produce maintainable code, automated testing, continuous integration, etc.
+
+• Work with the business to optimize AI/ML algorithms, data transformations, data presentation, etc.
+
+• Engage with various stakeholders to help drive AI/ML strategies and identify business problems that can be solved creatively utilizing data and AI/ML
+
+• Ability to educate the organization on new approaches on testing hypotheses and statistical validation
+
+• Ability to lead discovery processes with stakeholders to identify business requirements and expected outcomes
+
+• Ability to cross train other team members
+
+Skills & Requirements
+
+• Bachelor’s degree or 10 years relevant work experience
+
+• 5+ years of experience with AWS Cloud Technologies
+
+• 3+ years of experience with Artificial Intelligence / Machine Learning experience
+
+• Statistical & Forecast Modeling
+
+• Python
+
+• AWS SageMaker, DeepAR, Jupyter Notebooks
+
+• VPC, S3, EC2, Lambda, SNS, SQS, RDS, EMR, Nifi, Glue, Batch, Step Functions
+
+• Kafka, AKS, Kinesis Streams, Kinesis Firehose, Spark Streaming
+
+• AWS Certification
+
+• Expert skills in data analysis and data mining
+
+• Experience with project testing, implementation, and deployment activities across multiple, cross-functional teams
+
+Benefits/Other Compensation
+
+This position is a contract/temporary role where Hays offers you the opportunity to enroll in full medical benefits, dental benefits, vision benefits, 401K and Life Insurance ($20,000 benefit).
+
+Why Hays?
+
+You will be working with a professional recruiter who has intimate knowledge of the industry and market trends. Your Hays recruiter will lead you through a thorough screening process in order to understand your skills, experience, needs, and drivers. You will also get support on resume writing, interview tips, and career planning, so when there’s a position you really want, you’re fully prepared to get it.
+
+Nervous about an upcoming interview? Unsure how to write a new resume?
+
+Visit the Hays Career Advice section to learn top tips to help you stand out from the crowd when job hunting.
+
+Hays is committed to building a thriving culture of diversity that embraces people with different backgrounds, perspectives, and experiences. We believe that the more inclusive we are, the better we serve our candidates, clients, and employees. We are an equal employment opportunity employer, and we comply with all applicable laws prohibiting discrimination based on race, color, creed, sex (including pregnancy, sexual orientation, or gender identity), age, national origin or ancestry, physical or mental disability, veteran status, marital status, genetic information, HIV-positive status, as well as any other characteristic protected by federal, state, or local law. One of Hays’ guiding principles is ‘do the right thing’. We also believe that actions speak louder than words. In that regard, we train our staff on ensuring inclusivity throughout the entire recruitment process and counsel our clients on these principles. If you have any questions about Hays or any of our processes, please contact us.
+
+In accordance with applicable federal, state, and local law protecting qualified individuals with known disabilities, Hays will attempt to reasonably accommodate those individuals unless doing so would create an undue hardship on the company. Any qualified applicant or consultant with a disability who requires an accommodation in order to perform the essential functions of the job should call or text 813.336.5570.
+
+Drug testing may be required; please contact a recruiter for more information.
+
+#LI-DNI",Orlando,US,1970-01-01,Staffing
+http://www.fidelity.com,90BpMIyAGy-HR15EAAAAAA==,FULLTIME,"Co-Op, Data Science",https://www.karkidi.com/job-details/38964-co-op-data-science-job,"The Data Science & Artificial Intelligence team in Fidelity Workplace Solutions is responsible for data science and big data analytics to uncover customer needs, provide impactful business insights, improve personalization, support thought leadership, enhance financial and healthcare product offerings, and optimize communications and digital platforms through strategic and intelligent usage of data science and advanced analytics.
+
+Fidelity Investments is looking for motivated graduate students to spend their next co-op with us. This 6-month experience will offer the opportunity to work with business leaders, participate in analytic projects, and learn about Fidelity Personal Investing working within the Customer Knowledge and Strategic Insights (CKSI) business division. We are looking for self-starters with strong communications skills who are inquisitive, technically adept, and take a data-driven approach to solving problems.
+
+The Value You Deliver
+• During your Co-Op, you will work on strategic, high-priority projects addressing the critical initiatives of our business. Typically, these projects focus in the areas of Direct Marketing, Digital Marketing and Big Data analysis while working with data across a multitude of channels, (i.e. branches, call centers, websites, mobile apps, chat, email, etc.). Potential business projects are scale data quality practices, multi-channel customer engagement insight, AI standards or marketing measurement and analytics.
+• The Data Science Co-Op will have an opportunity to work on projects that will have a direct impact to the Fidelity business. Working closely with a team of data scientists, they will support advanced analytics/data science/AI projects such as:
+• Develop predictive models to help identify prospective customers and recommend benefit solutions to existing customers.
+• Design and execute A/B experiments to measure the impact of new tools, processes, and models on key business indicators of sales.
+• Investigate new data sources to evaluate their usefulness in predictive modeling projects; generate new data using techniques like adversarial networks and textual data extraction.
+• Apply natural language processing and knowledge graph to identify trends and relationships in textual data to enhance customer relationship management activities.
+• Use explainable artificial intelligence (XAI) and effective data visualization techniques to help associates understand model predictions and justify business decisions.
+• Analysis and comparison of advanced experimental design methods in business settings based on literature reviews and Monte Carlo simulations.
+• Partner with AI/ML engineers to design, implement, and automate complete end-to-end data science pipelines using cloud technologies.
+• Leverage AI/ML anomaly detection techniques to mitigate fraudulent account issues.
+• Analyze multidimensional time series data and build models to predict and mitigate critical infrastructure failures.
+
+The Expertise You Have
+
+We are seeking talent who is working on their Master’s or PhD in Data Science, Computer Science, Statistics, Engineering, Math, Statistics, Operations Research, Information Technology, Physics, Marketing, Economics, Finance, Business Administration or Operations Research to join us for a robust 26-week co-op internship.
+• Two years of relevant work experience prior to entering master’s program preferred.
+• A strong Python programmer with demonstrated proficiency in data extraction, data engineering, data analysis, machine learning, data modeling and pipeline automation.
+• An ability to write object-oriented solutions and to package together and streamline existing models is preferred.
+• Advanced working SQL knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases.
+• Knowledge of natural language processing including text preprocessing, named entity recognition, fuzzy matching, sentiment analysis, and/or knowledge graph.
+• A strong interest in learning and applying explainable artificial intelligence methods, such as Explainable Boosting Machines, LIME, and SHAP.
+• Proficient technical writing skills with an ability to explain complex data science, statistics, and computer science concepts clearly for a nontechnical audience.
+• An aspiring analyst with prestigious skills in Excel or statistical tools to analyze data. These skills will be applied to inform business strategies via insights, digital analytics, measurement, consumer research or trend analysis and statistical modelling.
+• Experience with industry standard data visualization tools (Qlik, Tableau, etc.) and tangible examples of both presenting data visually as well as using visualizations to deliver new insights.
+• Strong background in SQL and experience in data engineering or ETL.
+• Ability to ask the right business questions, evaluate digital experience, recognize trends and opportunities, and build a story that convinces business partners to take actions.
+• A willingness and capacity to learn new tools quickly.
+
+About Fidelity Investments
+
+At Fidelity, we are focused on making our financial expertise broadly accessible and effective in helping people live the lives they want. We are a privately held company that places a high degree of value in creating and nurturing a work environment that attracts the best talent and reflects our commitment to our associates. We are proud of our diverse and inclusive workplace where we respect and value our associates for their unique perspectives and experiences.
+
+For information about working at Fidelity, visit Fidelitycareers.com
+
+Fidelity Investments is an equal opportunity employer.",Westlake,US,1970-01-01,Finance
+https://www.walmart.com,t7Cpo7OTcLShswfaAAAAAA==,FULLTIME,(USA) Principal Data Scientist,"https://www.ziprecruiter.com/c/Walmart/Job/(USA)-Principal-Data-Scientist/-in-Paterson,NJ?jid=1ec4b728e41e44b2","Position Summary...
+
+What you'll do...
+
+We are at the forefront of attacking one of the most complex problems of e-commerce. Whenever a user types in a query or browses through product categories on the web site, phone or the iPad, our service goes to work. We mine billions of search queries and tens of millions of products to find the most relevant products for our customers. Team members take end-end responsibility in analyzing large amounts of data, creating complex models, improving their accuracy and deploying these models to serve customers.
+
+As part of this team, you'll solve some of the most fascinating and impactful problems in machine learning, information retrieval, NLP or computer vision problems. The algorithms you develop will champion customers need to express their intent and our goal to understand their preferences, implicitly or explicitly across devices and modalities (voice, text, image etc.). You will develop and deploy machine learned models, to engage and converse with our customers and to understand their goals and expectations to enable them to make the right purchase decision. Your work will be visible to millions of customers and you will have a direct impact on the goals of the Fortune #1 enterprise. If you speak and think machine learning then we want to talk to you. Come join our team and be part of this exciting journey.
+
+About Team:
+Our team works closely with our US stores and eCommerce business to better serve customers by empowering team members, stores, and merchants with technological innovation. From groceries and entertainment to sporting goods and crafts, Walmart U.S. offers an extensive selection that our customers value, whether they shop online at Walmart.com, through one of our mobile apps, or in-store. Focus areas include customers, stores and employees, in-store service, merchant tools, merchant data science, and search and personalization.
+
+What you'll do:
+• Applying machine learning ranking algorithms to maximize the relevance of search system and minimize risks.
+• Building, validating, testing and deploying predictive models using machine learning techniques to explain or predict behavior and solve a variety of business and engineering problems.
+• Identifying, collecting, and exploring the right data used for predictive modeling and algorithm development.
+• Performing and leading developments using machine learning techniques in one or more of the key areas like natural language processing, computer vision, information retrieval, entity recognition, product classification, and recommender system.
+
+What you'll bring:
+• You have 5+ years of work and research experience in the machine learning field with a deep understanding of machine learning and interest in applying it at scale.
+• You have experience with data cleaning, preparation, and featurization and selection techniques.
+• You have experience working with large data sets to solve problems.
+• You have experience with deep learning library like TensorFlow and/or PyTorch is highly desirable as well as experience with Spark and/or Hadoop.
+• You have/had hands-on experience with Python, Java or Scala and the ability to write reusable and efficient code to automate machine learning pipeline and data processes.
+• You have effective communication, interpersonal and teamwork skills.
+• You have the ability to handle multiple concurrent projects while working independently and in teams.
+• You can work in a fast-paced and deadline driven environment.
+• Ph.D. or Master's degree in Computer Science, Statistics, Artificial Intelligence, Operations Research, Mathematics, Electrical Engineering, Computational Linguistics or related fields.
+
+About Walmart Global Tech
+Imagine working in an environment where one line of code can make life easier for hundreds of millions of people. That's what we do at Walmart Global Tech. We're a team of software engineers, data scientists, cybersecurity expert's and service professionals within the world's leading retailer who make an epic impact and are at the forefront of the next retail disruption. People are why we innovate, and people power our innovations. We are people-led and tech-empowered. We train our team in the skillsets of the future and bring in experts like you to help us grow. We have roles for those chasing their first opportunity as well as those looking for the opportunity that will define their career. Here, you can kickstart a great career in tech, gain new skills and experience for virtually every industry, or leverage your expertise to innovate at scale, impact millions and reimagine the future of retail.
+
+Flexible, hybrid work:
+We use a hybrid way of working that is primarily in office coupled with virtual when not onsite. Our campuses serve as a hub to enhance collaboration, bring us together for purpose and deliver on business needs. This approach helps us make quicker decisions, remove location barriers across our global team and be more flexible in our personal lives.
+
+Benefits:
+Benefits: Beyond our great compensation package, you can receive incentive awards for your performance. Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more.
+
+Equal Opportunity Employer:
+Walmart, Inc. is an Equal Opportunity Employer - By Choice. We believe we are best equipped to help our associates, customers and the communities we serve live better when we really know them. That means understanding, respecting and valuing diversity- unique styles, experiences, identities, ideas and opinions - while being inclusive of all people.
+
+The above information has been designed to indicate the general nature and level of work performed in the role. It is not designed to contain or be interpreted as a comprehensive inventory of all responsibilities and qualifications required of employees assigned to this job. The full Job Description can be made available as part of the hiring process.
+
+Minimum Qualifications...
+
+Outlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.
+
+Option 1: Bachelors degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology or related field and 5 years' experience in an analytics related field. Option 2: Masters degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology or related field and 3 years' experience in an analytics related field. Option 3: 7 years' experience in an analytics or related field
+
+Preferred Qualifications...
+
+Outlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.
+
+Data science, machine learning, optimization models, PhD in Machine Learning, Computer Science, Information Technology, Operations Research, Statistics, Applied Mathematics, Econometrics, Publications or active peer reviewer in related journals or conference, Successful completion of one or more assessments in Python, Spark, Scala, or R, Using open source frameworks (for example, scikit learn, tensorflow, torch)
+
+Primary Location...
+221 RIVER ST, HOBOKEN, NJ 07030, United States of America",Paterson,US,1970-01-01,Retail
+http://www.lpcorp.com,YeJgsXd3wHW2nG7qAAAAAA==,FULLTIME,Data Engineer I,https://ai-jobs.net/job/107407-data-engineer-i/,"Louisiana-Pacific Corporation (LP Building Solutions) is a leading provider of high-performance building solutions that meet the demands of builders, remodelers, and homeowners worldwide. We manufacture engineered wood building products that include an extensive offering of innovative and dependable building materials and accessories. LP’s values-driven culture creates an environment where talented and hardworking people thrive in an ethical, inclusive, challenging, and rewarding place to work. Since our founding in 1972, we’ve developed careers and provided advancement opportunities in the building products industry. Headquartered in Nashville, Tennessee, LP operates more than 20 facilities across North and South America. For more information, visit LPCorp.com. Job Purpose As a Data Engineer I, you will be a key contributor to our Enterprise Data and Analytics organization responsible for designing, developing, and maintaining robust data infrastructure and pipelines. Your role requires a strong understanding of data architecture, ETL (Extract, Transform, Load) processes, and integration technologies. You will collaborate with cross-functional teams to ensure the efficient and reliable integration of data, supporting the organization's data-driven initiatives. You will develop data models to meet the needs of the organization's data systems, manage and support the flow of information between analytics solutions. The successful candidate will be responsible for managing the Data & Analytics’ ETL and reporting platforms to cleanse, validate, and prepare the data for consumption. Duties include supporting the business process areas for LP’s Master Data Governance, Business Intelligence, interfaces to/from SAP and Snowflake, and other automation tools, as needed. You will work with internal and external resources for requirements gathering, development/delivery of requested changes, testing & documentation, and the ongoing support in the production environment. You will also work with LP’s service providers to manage delivery of changes, where appropriate. We’d love to meet you if... … you’re energized by big challenges and eager to learn and adapt to new technologies. … you enjoy working with others to deliver great work and still able to work independently. … you’re innovative with a commitment to delivering high quality solutions in a positive culture and environment. In this position you will have the opportunity to: Design, implement, and maintain scalable/efficient data pipelines for ETL data from diverse sources. Collaborate with data architects and data engineers to optimize and enhance existing data processes. Work closely with data scientists, business analysts, and other stakeholders to understand data requirements. Design, implement, and support a platform providing secured access to large datasets. Model data and metadata to support ad-hoc and enterprise reporting. Support the design, development, and maintenance of ongoing metrics, reports, analyses, dashboards, etc. to drive key business decisions. Leverage and integrate with different tools, technologies, and products within LP to reduce overall operational cost and enhance customer experience. Develop and maintain data models to support business requirements and facilitate data analytics. Ensure data integrity, consistency, and adherence to data governance standards. Research best practices, support solution development, and provide recommendations to improve business operations. Establish and maintain scalable data processing procedures and policies. Provide subject matter expertise to stakeholders at all levels of technical competency. Stay abreast of emerging data engineering tools and technologies. Evaluate and recommend tools that enhance the efficiency and capabilities of the data engineering infrastructure. What do I need to be successful? 0 to 3 years of relevant experience. Proficiency in programming languages such as Python, Java, SQL, or Scala. Solid understanding of ETL processes, data modeling, and database management. Experience with cloud-based data platforms (e.g., Snowflake, AWS, Azure, Google Cloud) is a plus. Strong analytical and problem-solving skills. Experience with API development is a plus. Experience with integration into reporting platforms, like Tableau, Power BI, SAP BI highly desired. Education Bachelor’s or Master’s degree in computer science, software or computer engineering or related field, or equivalent work experience. Work Environment This position will work at home and in our Nashville office on a hybrid schedule Must be within a commutable distance to Nashville or willing to relocate to the greater Nashville area #LI-HYBRID LP offers competitive salaries and comprehensive benefits and programs including health and welfare benefits, 401(k) program, career mobility, tuition reimbursement, volunteer opportunities, profit sharing and more.",,US,1970-01-01,Manufacturing
+https://www.walmart.com,uLya78S4RJUe_0TcAAAAAA==,FULLTIME,"Senior, Data Scientist (MLE) - Marketplace Acceleration","https://www.ziprecruiter.com/c/Walmart/Job/Senior,-Data-Scientist-(MLE)-Marketplace-Acceleration/-in-Bentonville,AR?jid=b60f4b3a2553e426","Position Summary...
+
+What you'll do...
+
+We are looking for Full-Stack Data Scientists to join us in building world class solutions at Walmart scale. You will play a key role in developing, automating, scaling, and implementing solutions that tackle diverse business problems. There are ample opportunities to enrich your knowledge and skillset that will accelerate your ML Engineering career.
+
+As a Walmart Senior Data Scientist, we are looking for a sharp, thoughtful, and collaborative problem solver, who enjoys building data science solutions to enable strategic decision making and then developing and scaling advanced solutions into a Walmart-wise Automated ML service and platform.
+
+About the Team:
+
+Marketplace Applied AI team builds reusable technologies that aid in acquiring customers, onboarding and empowering merchants besides ensuring a seamless experience for both these stakeholders. We also optimize tariffs and assortment, adhering to the Walmart philosophy - Everyday Low Cost. In addition to ushering in affordability, we also create personalized experiences for customers the omnichannel way, across all channels - in-store, on the mobile app and websites. Marketplace is the gateway to domestic and international Third-Party sellers; we enable them to manage their end-to-end onboarding, catalog management, order fulfilment, return & refund management. Our team is responsible for design, development, and operations of large-scale distributed systems by leveraging cutting-edge technologies in web/mobile, cloud, big data & AI/ML. We interact with multiple teams across the company to provide scalable robust technical solutions.More about Marketplace: https://marketplace.walmart.com/
+
+What You'll Do:
+
+As a Senior Data Scientist/ ML Engineer for Global Marketplace team at Walmart, you'll have the opportunity to be responsible for building scalable end-to-end data science solutions for our data products.
+• Work closely with data engineers and data analysts to help build ML- and statistics-driven data quality and continuous data monitoring workflows.
+• Solve business problems by scaling advanced Machine Learning algorithms and complex statistical models on large volumes of data.
+• Own the MLOps lifecycle , from data monitoring to refactoring data science code to building robust model monitoring workflows for model lifecycle management.
+• Demonstrate strong thought-leadership and consult with product and business stakeholders to build, scale and deploy holistic machine learning solutions after successful prototyping.
+• Follow industry best practices, stay up to date with and extend the state of the art in machine learning research and practice and drive innovation.
+• Promote and support company policies, procedures, mission, values, and standards of ethics and integrity.
+
+What you'll Bring ...
+• Knowledge of the foundations of Machine Learning and Statistics
+• Experience with web service standards and related patterns (REST, gRPC)
+• Experienced in architecting solutions with Continuous Integration and Continuous Delivery in mind.
+• Familiar with distributed in-memory computing technologies.
+• Solid experience working with state-of-the-art supervised and unsupervised machine learning algorithms on real-world problems.
+• Strong Python coding and package development skills
+• Experience with Big Data and analytics in general leveraging technologies like Hadoop, Spark, and MapReduce.
+• Ability to work in a big data ecosystem - expert in SQL/Hive and ability to work with Spark.
+• Able to refactor data science code and has collaborated with data scientists in developing ML solutions.
+• Experience playing the role of full-stack data scientist and taking solutions to production.
+• Experience developing proper metrics instrumentation in software components, to help facilitate real-time and remote troubleshooting/performance monitoring.
+• Educational qualifications should be preferably in Computer Science, Statistics, Engineering, or a related area.
+• Good effective communication (both written and verbal) skills and the ability to present complex ideas in a clear & concise way, to different audiences. A team player with good work ethics
+
+The above information has been designed to indicate the general nature and level of work performed in the role. It is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities and qualifications required of employees assigned to this job. The full Job Description can be made available as part of the hiring process.
+
+About Global Tech
+
+Imagine working in an environment where one line of code can make life easier for hundreds of millions of people. That's what we do at Walmart Global Tech. We're a team of software engineers, data scientists, cybersecurity expert's and service professionals within the world's leading retailer who make an epic impact and are at the forefront of the next retail disruption. People are why we innovate, and people power our innovations. We are people-led and tech-empowered.
+
+We train our team in the skillsets of the future and bring in experts like you to help us grow. We have roles for those chasing their first opportunity as well as those looking for the opportunity that will define their career. Here, you can kickstart a great career in tech, gain new skills and experience for virtually every industry, or leverage your expertise to innovate at scale, impact millions and reimagine the future of retail.
+
+Flexible, hybrid work
+
+We use a hybrid way of working that is primarily in office coupled with virtual when not onsite. Our campuses serve as a hub to enhance collaboration, bring us together for purpose and deliver on business needs. This approach helps us make quicker decisions, remove location barriers across our global team and be more flexible in our personal lives.
+
+Benefits & Perks:
+
+Beyond our great compensation package, you can receive incentive awards for your performance. Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more.
+
+Equal Opportunity Employer:
+
+Walmart, Inc. is an Equal Opportunity Employer - By Choice. We believe we are best equipped to help our associates, customers and the communities we serve live better when we really know them. That means understanding, respecting and valuing diversity- unique styles, experiences, identities, ideas and opinions - while being inclusive of all people.
+
+Minimum Qualifications...
+
+Outlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.
+
+Option 1- Bachelor's degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology, or related field and 3 years' experience in an analytics related field. Option 2- Master's degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology, or related field and 1 years' experience in an analytics related field. Option 3 - 5 years' experience in an analytics or related field.
+
+Preferred Qualifications...
+
+Outlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.
+
+Data science, machine learning, optimization models, Master's degree in Machine Learning, Computer Science, Information Technology, Operations Research, Statistics, Applied Mathematics, Econometrics, Successful completion of one or more assessments in Python, Spark, Scala, or R, Using open source frameworks (for example, scikit learn, tensorflow, torch)
+
+Primary Location...
+603 MUNGER AVE STE 400, DALLAS, TX 75202, United States of America",Bentonville,US,1970-01-01,Retail
+,XOUm37mAU7v-L21RAAAAAA==,FULLTIME,Data Scientist,https://www.linkedin.com/jobs/view/data-scientist-at-vibronyx-3744050654,"DATA SCIENTIST
+
+Job Title: Data Scientist
+
+Department: Information Technology
+
+Reports To: Vishnu Venkatesh
+
+Work Location: Flexible for remote and/or onsite. East coast preference.
+
+Who we are: Vibronyx is a rapidly growing startup focused on building future-ready supply chains using AI technologies and data analytics. We are helping our department of defense and commercial clients solve some of the toughest digital supply chain challenges.
+
+The value that you will bring: As a Data Scientist, you will help in the development of predictive technologies that will power the next generation of supply chains. Your abilities to apply machine learning and artificial neural network methodologies will underly our customers’ predictive capabilities. You will be using your coding skills to discover features and train models. You will be working on teams on multiple projects concurrently that involve cross-functional disciplines across customer and internal organizations
+
+What will you bring to the role:
+
+Apply analytical thinking and curiosity to build analytical solutions
+
+Communication skills that enable you to tell the story of the data
+
+Willingness to learn, be coached and take feedback
+
+Be able to embrace a prototype and fail-fast culture
+
+Consultative approach to problem solving with clients and internal teams
+
+Job Description and Duties:
+
+Collaborate with various stakeholders to understand requirements, and translate those requirements into technical solutions
+
+Develop templates, design, develop, and integrate data and models for repeatability
+
+Stay current on new technologies and methods across data science and analytics, data engineering, and data visualization, share best practices to improve technical capabilities of the team
+
+Identify appropriate data sources to answer business question
+
+Explore, identify and evaluate features and models
+
+Extract, transform, cleanse, and organize and standardize data to make data usable for machine learning and neural networks
+
+Visualize accuracy and relationships within data
+
+Engage in best practices discussions with other team members, discuss project activities and results with team
+
+Build documentation and presentations of project results
+
+Communicate results of analyses and associated business benefits to business partners and executives including the application of statistical exploratory data analysis to communicate value of data
+
+Skills/Qualifications:
+
+1 to 3+ years of technical experience with relevant analytics programming languages, frameworks, and visualization tools
+
+Ability to collect and analyze complex data
+
+Must be able to organize and prioritize work to meet multiple deadlines
+
+Must be able to communicate effectively in both oral and written form
+
+Must have strong time management skills
+
+Curiosity, learning ambition and collaborative behavior essential to this role.
+
+Must have demonstrated experience in working with relational databases and advanced SQL techniques
+
+Must have demonstrated experience in feature discovery and engineering
+
+Must have demonstrated experience in communicating relationships in data using statistical modeling
+
+Must have demonstrated experience in advanced Classification and Regression machine learning algorithms
+
+Must have demonstrated experience in Natural Language Processing technologies
+
+Must have demonstrated experience in Deep Learning technologies
+
+Must have demonstrated experience in Python data analysis frameworks and visualization including Pandas, Seaborn/Matplotlib, Jupyter and Keras/Tensorflow
+
+Must have demonstrated experience in dealing with imbalanced data
+
+Must have demonstrated experience in Git version control
+
+Showcasing your data science skills and experience through public repos is a plus
+
+Familiarity with AutoML tools such as PyCaret is a plus
+
+Knowledge of NoSQL and Graph databases is a plus
+
+Knowledge and familiarity with JSON, Protocol Buffers is a plus
+
+Knowledge and familiarity with Windows operating systems. Familiarity with Linux is a plus.
+
+Working knowledge of a virtual machines in a cloud environment like AWS
+
+Regular, predictable, full attendance is an essential function of the job
+
+Must be a U.S. Citizen or authorized to work in the U.S. without sponsorship and able to pass government security process to work within government systems
+
+Preferred Experience:
+
+Experience with supply chain management data and technology is desirable (e.g. ERP, Transportation Management and Warehouse Management systems)
+
+Priority for current or recent DoD Common Access Card holders
+
+Physical Demands:
+
+Willingness to travel as necessary, work the required schedule, work at the specific location required
+
+Education:
+
+Bachelor’s degree required, concentration in Data Analytics, Engineering, Operations Research, Statistics, Applied Math, Computer Science, or related quantitative certifications
+
+At Vibronyx – the ability to help our clients, colleagues and communities flourish is driven by the diversity of thought, talent, interests, and experiences of our valued team members. We don’t just accept these differences, we cherish them. Vibronyx is proud to be an equal opportunity workplace and is an affirmative action employer. We invite you to join us and feel the VIBES: https://vibronyx.com/about/",,US,1970-01-01,
+http://www.paypal.com,MRrrRIK3s51RQsf8AAAAAA==,INTERN,Decision/Data Scientist Intern,https://ai-jobs.net/job/91864-decisiondata-scientist-intern/,"At PayPal (NASDAQ: PYPL), we believe that every person has the right to participate fully in the global economy. Our mission is to democratize financial services to ensure that everyone, regardless of background or economic standing, has access to affordable, convenient, and secure products and services to take control of their financial lives.Job Description Summary:At PayPal, we’re literally reinventing how the world pays and gets paid. We understand that it’s about people. We connect individuals to let them shop, get paid, donate and send money using today’s technology with the confidence that comes from the security and control PayPal enables. Are you ready to help us change the world?The world’s leading payments company, PayPal, brings together a family of brands that are revolutionizing the way people move money. At PayPal you will be immersed in an amazing community with a vibrant culture that thrives on innovation, collaboration, inclusion and wellness. We are seeking world-class problem solvers who have a passion for data and a relentless focus on execution and delivery. You will be most successful with a healthy combination of both, technical skills and business acumen. As a Business Operations Intern you will generate insights by conducting extensive analyses of PayPal’s rich data. In the process, you will develop a deep understanding of the payments business, our site functionality, further strengthen your analytic, leadership and presentation skills and gain exposure to a wide variety of functional teams within PayPalJob Description:Create a holistic profile of the business and understand the payment behavior of business using raw bank statement transaction data. Determine revenue growth opportunities by identifying competitor products used by the business (payment processor or loan) to increase PayPal share of wallet Collaborate with risk and product team to align on thew strategy & framework Present new strategy recommendations to senior management for approval Required Skills: Expertise in an analytical language (Python, R or the equivalent), and experience with databases (Hive, SQL, or the equivalent) Strong knowledge o of machine learning/statistical algorithms Self-driven, persistent and team-playing Internship Program Information and Requirements: This is a Summer 2024 Internship program. Spring and Fall 2024 internships are not available. Must currently be pursuing Master’s degree in Computer Science or related field from an accredited college or university. Must be returning to school in the Fall of 2024. Must reside in the U.S. during the Summer internship program. Must be able to obtain authorization to work in the U.S. for the summer. Additional Job Description:PayPal is committed to fair and equitable compensation practices.Actual compensation is based on various factors including but not limited to work location, and relevant skills and experience.The total compensation for this position may include an annual performance bonus (or other incentive compensation, as applicable), equity, and medical, dental, vision, and other benefits. For more information, visit https://www.paypalbenefits.com.The U.S. national hourly pay range for this role is $21 to $55. Subsidiary:PayPalTravel Percent:0Our Benefits:At PayPal, we’re committed to building an equitable and inclusive global economy. And we can’t do this without our most important asset—you. That’s why we offer benefits to help you thrive in every stage of life. We champion your financial, physical, and mental health by offering valuable benefits and resources to help you care for the whole you.We have great benefits including a flexible work environment, employee shares options, health and life insurance and more. To learn more about our benefits please visit https://www.paypalbenefits.comWho We Are:Click Here to learn more about our culture and community.PayPal has remained at the forefront of the digital payment revolution for more than 20 years. By leveraging technology to make financial services and commerce more convenient, affordable, and secure, the PayPal platform is empowering more than 400 million consumers and merchants in more than 200 markets to join and thrive in the global economy. For more information, visit paypal.com.PayPal provides equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, pregnancy, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. In addition, PayPal will provide reasonable accommodations for qualified individuals with disabilities. If you are unable to submit an application because of incompatible assistive technology or a disability, please contact us at paypalglobaltalentacquisition@paypal.com.Any general requests for consideration of your skills, please Join Our Talent Community.As part of PayPal’s commitment to employees’ health and safety, we have established in-office Covid-19 protocols and requirements, based on expert guidance. Depending on location, this might include a Covid-19 vaccination requirement for any employee whose role requires them to work onsite. Employees may request reasonable accommodation based on a medical condition or religious belief that prevents them from being vaccinated.",,US,1970-01-01,
+http://joinroot.com,vp9WjVr9sM_0HH-HAAAAAA==,FULLTIME,Data Scientist II - Lifetime Value Analytics,https://www.linkedin.com/jobs/view/data-scientist-ii-lifetime-value-analytics-at-root-inc-3734648220,"CURRENT ROOT EMPLOYEES - Please apply using the career page in Workday. This career site is for external applicants only.
+
+The Opportunity
+
+We believe that a disruptive insurance company must have a principled quantitative framework at its foundation. At Root, we are committed to the rigorous development and effective deployment of modern statistical machine learning methods to problems in the insurance industry.
+
+A Data Scientist II at Root is responsible for the end-to-end development of statistical methods and algorithms. This includes taking high-level business challenges, translating them into a concrete, quantitative framework, and shepherding solutions from R&D into production. Data Scientists typically work on cross-functional teams, regularly engaging with the members of various departments including Product, Actuarial, Marketing, and Engineering.
+
+The Lifetime Value (LTV) data science team is looking for a Data Scientist II to continuously improve the way we estimate customer LTV. Customer LTVs are at the heart of many decisions that we make across the company, from optimizing the onboarding flow to allocating marketing capital. Better estimates of LTV translate into better decision making.
+
+Root is a “work where it works best” company. Meaning we will support you working in whatever location that works best for you across the US. We will continue to have our headquarters in Columbus and offices in other locations to give more flexibility and more choice about how we live and work.
+
+Salary Range: $104,600 - $130,700
+
+How You Will Make An Impact
+• Applying principled methods to forecast and validate customer lifetime value
+• Learning the required tools to get the job done, e.g., AWS, Git, etc.
+• Building data science pipelines to quickly iterate on research ideas and put them into production
+• Effectively communicating insights from complex analyses
+• Taking end-to-end ownership of problem domains and continuously improving upon quantitative solutions
+
+What You Will Need To Succeed
+• Advanced degree in a quantitative discipline (PhD preferred) and/or 2+ years of applying advanced quantitative techniques to problems in industry
+• Strong demonstrable knowledge of topics such as statistical modeling, machine learning, and numerical optimization
+• Exceptional communicator and storyteller with strong data visualization skills
+• Strong programming skills with experience in SQL and Python
+• Demonstrated experience building, validating, and applying statistical machine learning methods to real world problems
+• Demonstrates ownership mentality, taking initiative to find, prioritize, and be accountable for the highest impact work
+• Ability to frame functional problem statements for the next 1-2 months, consistently making good decisions about the right path to follow in a well-defined problem space
+• Preferred but not required:
+• Experience using version control (Git) and cloud computing (AWS)
+• Basic understanding of survival / time series analysis
+• Insurance industry experience
+
+Don’t meet every single requirement?
+
+Studies have shown that women and people of color are less likely to apply to jobs unless they meet every single qualification. At Root, Inc., we are dedicated to building a diverse and inclusive workplace, so if you’re excited about this role but your past experience doesn’t align perfectly with every qualification in the job description, we encourage you to apply anyway!
+
+Join us
+
+At Root, we judge people based on the merit of their work, not who they are. If you are passionate about what this role entails and solving real problems, we encourage you to apply. We want to learn about you and what you can add to our team.
+
+Who We Are
+
+We’re harnessing the power of technology to revolutionize insurance. Using machine learning and mobile telematic platforms, we’ve built one of the most innovative FinTech companies in the world. And we’re just getting started.
+
+What Draws People To Root
+
+Our success is in large part due to our unwavering standards in hiring. We recognize that our products are only as good as the people building and promoting them. We want individuals who find solutions by going through the cycle of ideation to implementation with curiosity, rigor, and an analytical lens. Ask anyone who works here and you’ll hear similar reasons for why they joined:
+
+Autonomy—for assertive self-starters, the opportunities to contribute are limitless.
+
+Impact—by challenging the way it’s always been done, we solve problems that have a big impact on our business.
+
+Collaboration—we encourage rich discussion and civil debate at every turn.
+
+People—we are inspired by the collection of crazy-smart people around us.",,US,1970-01-01,
+http://www.gartner.com,Uxl1O9B6sRUwfR1gAAAAAA==,FULLTIME,"VP, Data Analytics",https://ai-jobs.net/job/96400-vp-data-analytics/,"The Global Product Management (GPM) organization is responsible for business performance of all research products. The Research Business Analytics (RBA) team is part of GPM and performs analysis related to all aspects of Gartner’s Research. This includes client value drivers: Research content, research interaction, and the research role in conferences and events. RBA also supports the Research & Advisory (R&A) organization by enabling and performing analysis running from client retention analytics, associate performance analytics, budget and financial analysis (in partnership with the finance organization), and client demand sensing. We power fact-based decision making by providing data, insights, and analytic tools to continuously improve our business – operationally and strategically.We are looking for a Vice President (VP) who is a proven, highly analytical problem solver and exceptional leader to be part of our growing team. This individual will lead a team with members in the US and India and should be comfortable rolling up their sleeves to “get the job done” as well as leading strategic initiatives. This role will principally focus on demand sensing and at times will include projects in automation, standard reporting, ad-hoc analytics, content analytics, and interaction analytics. Demand sensing will include1. Prioritization of client roles and technology market areas,2. For each role and market, identify data sources that indicate the intensity and momentum of client demand,3. Test the predictive power of data sources,4. Identify cross-role and cross-market demand trends,5. Influence content and staffing plans to match market demand.In close collaboration with business stakeholders from Data Science, Research Strategy & Operations, and GPM leadership, this VP will develop and execute on an approach to enable the Research & Advisory organization with insights, dashboards, and data to know trends in client demand. Client demand sensing is important to decide what content to publish, how to staff to handle interactions that answer client questions, and to budget in a way that matches capacity to client need. This is an exciting opportunity to be hands-on in our efforts to fuel Gartner’s revenue growth and retention through Gartner’s world-class, must-have content and extraordinary and timely client interactions.What you’ll do:● Partner with stakeholders (e.g., IT, Research Strategy & Operations, Content Research Excellence, and Global Product Management) to understand business needs and capabilities that can help us sense demand. Use demand signals as the basis to influence outcomes with respect to Content publishing, Interaction staffing, Conference topics, and Research & Advisory staffing. Continuously and collaboratively prioritize efforts against areas of highest business impact.● Develop and continuously improve a methodology to know trends in client interest by client role.● Execute on the approach to deliver functionality iteratively.● Continuous improvement: Take initiative to identify and roll out improvement initiatives.● Strategic initiatives: Partner with stakeholders and intrateam colleagues to define and implement strategic initiatives and key, cross-organizational deliverables.● Stakeholder management & communication: Build deep and lasting relationships with stakeholders across the Research & Advisory organization as well as other functionalareas, including IT, R&A, and GPM. Identify opportunities for collaboration and “win-win” shared projects across functions.What you will need:● Experience: 15+ years of progressive business experience involving advanced business analytics, complex problem solving, and business strategy.● Education: Bachelor’s Degree required with a Master’s Degree preferred. Degree with a concentration in statistics, data science, mathematics, engineering, computer science, or operations research preferred.● Exceptional problem solving: Proven track record of solving complex problems, thinking creatively, and using data to influence senior level stakeholders. Demonstrated thought leadership with high business impact throughout career.● Success in fast-paced environments: Track record of success in environments with competing and continuously evolving priorities.● Leadership: Ability to lead international teams; engaging teams and key stakeholders across business functions and at all levels of the organization.● Collaboration: Strong collaboration and influencing skills in a highly matrixed environment.● Communication: Outstanding verbal and written communication – structured, engaging and compelling.What you will get: Collaborative, team-oriented culture that embraces diversity Professional development and unlimited growth opportunitiesCompetitive salary, generous paid time off policy, charity match program, Medical, Dental & Vision Plans, Parental Leave, Employee Assistance Program (EAP), 401K matching and more!Who are we?At Gartner, Inc. (NYSE: IT), we deliver actionable, objective insight that drives smarter decisions and stronger performance on an organization’s mission-critical priorities. We’ve grown exponentially since our founding in 1979 and we're proud to have over 19,500 associates globally that support over 15,000 client enterprises in more than 100 countries.What makes Gartner a great place to work?Our teams are composed of individuals from different geographies, cultures, religions, ethnicities, races, genders, sexual orientations, abilities and generations. We believe that a diversity of experiences makes us stronger—as individuals, as communities and as an organization. That’s why we're recognized worldwide as a great place to work year after year. We've been recognized by Fortune as one of the World’s Most Admired Companies, named a Best Place to Work for LGBTQ Equality by the Human Rights Campaign Corporate Equality Index and a Best Place to Work for Disability Inclusion by the Disability Equality Index. Looking for a place to turn your big ideas into reality? Join #LifeAtGartner What we offer:Our people are our most valuable asset, so we invest in them from Day 1. When you join our team, you’ll have access to a vast array of benefits to help you live your life well. These resources are designed to support your physical, financial and emotional well-being. We encourage continued personal and professional growth through ongoing learning and development opportunities. Our employee resource groups, charity match and volunteer programs keep you connected to your internal Gartner community and causes that matter to you.Gartner believes in fair and equitable pay. A reasonable estimate of the base salary range for this role is 156,000 USD - 217,350 USD. Please note that actual salaries may vary within the range, or be above or below the range, based on factors including, but not limited to, education, training, experience, professional achievement, business need, and location. In addition to base salary, employees will participate in either an annual bonus plan based on company and individual performance, or a role-based, uncapped sales incentive plan. Our talent acquisition team will provide the specific opportunity on our bonus or incentive programs to eligible candidates. We also offer market leading benefit programs including generous PTO, a 401k match up to $7,200 per year, the opportunity to purchase company stock at a discount, and more.The policy of Gartner is to provide equal employment opportunities to all applicants and employees without regard to race, color, creed, religion, sex, sexual orientation, gender identity, marital status, citizenship status, age, national origin, ancestry, disability, veteran status, or any other legally protected status and to affirmatively seek to advance the principles of equal employment opportunity.Gartner is committed to being an Equal Opportunity Employer and offers opportunities to all job seekers, including job seekers with disabilities. If you are a qualified individual with a disability or a disabled veteran, you may request a reasonable accommodation if you are unable or limited in your ability to use or access the Company’s career webpage as a result of your disability. You may request reasonable accommodations by calling Human Resources at +1 (203) 964-0096 or by sending an email to ApplicantAccommodations@gartner.com.Job Requisition ID:83838By submitting your information and application, you confirm that you have read and agree to the country or regional recruitment notice linked below applicable to your place of residence.Gartner Applicant Privacy Link: https://jobs.gartner.com/applicant-privacy-policyFor efficient navigation through the application, please only use the back button within the application, not the back arrow within your browser.",,US,1970-01-01,Computer Services
+http://www.carlyle.com,9poYntZzg5z2ReIWAAAAAA==,FULLTIME,Investment Data Scientist,https://www.linkedin.com/jobs/view/investment-data-scientist-at-the-carlyle-group-3758963310,"Position Summary:
+
+Join our dynamic Commercial Deal Team Support as a Data Scientist and immerse yourself in the heart of the investment process. This unique role fuses technical data science expertise with sharp commercial insight, placing you at the crossroads of investment decision-making and value creation. Collaborate closely with our investment teams and company leaders, leveraging your skills to make a tangible impact in due diligence and growth strategies.
+
+Primary Responsibilities:
+• Dive deep into data analytics for thorough investment due diligence, balancing swift execution with meticulous analysis to assess potential risks and opportunities.
+• Partner strategically with portfolio company executives, driving data-led initiatives for growth and efficiency from concept to completion.
+• Lead in developing and implementing data-centric strategies and tools, enhancing our investment processes and supporting our deal teams.
+• Provide critical support in live due diligence, translating complex data into comprehensive analysis under tight deadlines.
+• Develop insightful tools and data products to refine our investment process.
+• Oversee value creation projects in portfolio companies, from strategy to execution.
+• Engage in sophisticated data analysis, including feature engineering and analytics.
+• Cleanse, integrate, and interrogate diverse datasets to unearth unique insights.
+• Conduct rigorous hypothesis testing, statistical analysis, and modeling.
+
+What you’ll do:
+• Navigate and analyze complex datasets, extracting key insights to guide investment strategies.
+• Collaborate with internal teams and external executives on data-driven growth initiatives.
+• Manage third-party resources, integrating external expertise into our internal framework.
+• Spearhead the creation of innovative data tools and products to scale our deal support capabilities.
+
+Requirements:
+
+Education & Certificates
+• College degree and above in STEM field
+
+Professional Experience
+• Minimum of 3-6 years of direct Data Science experience, required.
+• Experience in commercial consulting, investment banking, or client-oriented roles is advantageous.
+
+Competencies & Attributes
+• Exceptional problem-solving abilities.
+• Aptitude for translating data into actionable business strategies.
+• Strong verbal and written communication skills, with a flair for public presentation and storytelling.
+• Solid understanding of investment, financial valuation, and commercial growth principles.
+• Advanced Python and SQL skills for complex data analysis.
+• Proficient in machine learning techniques and handling large datasets.
+• Skilled in data visualization and statistical modeling.
+• Familiarity with AWS cloud computing and Git version control systems.
+
+Due to the high volume of candidates, please be advised that only candidates selected to interview will be contacted by The Carlyle Group.
+
+Company Profile:
+
+The Carlyle Group (NASDAQ: CG) is a global investment firm with $382 billion of assets under management and more than half of the AUM managed by women, across 600 investment vehicles as of September 30, 2023. Founded in 1987 in Washington, DC, Carlyle has grown into one of the world's largest and most successful investment firms, with more than 2,200 professionals operating in 28 offices in North America, South America, Europe, the Middle East, Asia and Australia. Carlyle places an emphasis on development, retention and inclusion as supported by our internal processes and seven Employee Resource Groups (ERGs). Carlyle's purpose is to invest wisely and create value on behalf of its investors, which range from public and private pension funds to wealthy individuals and families to sovereign wealth funds, unions and corporations. Carlyle invests across three segments - Global Private Equity, Global Credit and Investment Solutions - and has expertise in various industries, including: aerospace, defense & government services, consumer & retail, energy, financial services, healthcare, industrial, real estate, technology & business services, telecommunications & media and transportation.
+
+At Carlyle, we know that diverse teams perform better, so we seek to create a community where we continually exchange insights, embrace different perspectives and leverage diversity as a competitive advantage. That is why we are committed to growing and cultivating teams that include people with a variety of perspectives, people who provide unique lenses through which to view potential deals, support and run our business.",,US,1970-01-01,Finance
+https://www.walmart.com,4kGFRcAdeT2HO-r1AAAAAA==,FULLTIME,"Director, Data Science","https://www.ziprecruiter.com/c/Walmart/Job/Director,-Data-Science/-in-Farmington,AR?jid=8979e29b309f9a12","Position Summary...
+
+What you'll do...
+
+This role will lead a team of Data Scientists working on building solution for Supply chain and Merchandising domains supporting Walmart International's omni business. Key focus areas will be inventory demand forecasting, pricing, store and modular space and assortment optimization. This position will collaborate closely with the engineering, product, and business teams to deliver generalized, accurate, and scalable models that can serve across markets.
+
+About the Team:
+
+Our team is focused on building forecasting and optimization models to estimate inventory demand and placement, replenishment across supply chain along with building last mile delivery solutions; make pricing, markdown and promotions recommendations; and build optimization models for assortments and space allocations in stores.
+
+Focusing on customer, associate and business needs, this team works with Walmart International, which includes more than 5,200 retail units, operating in 23 countries such as Canada, Central America, Chile, China, India, Mexico and South Africa to name a few.
+
+What you'll do:
+• Planning, harmonizing, and following up on tasks and dependencies that are required to build, test, improve, and deliver scalable models in partnership with 4ITB teams.
+• Mentoring and guiding less-experienced data scientists to build, improve or scale data science models.
+• Define the engineering requirements and align the development priorities with the engineering, product, and business teams.
+• Connect frequently with US and market teams who are/will be users of the products and capture their requirements to reflect them in our roadmap and future releases.
+• Present the current metrics and plans to improve them to business and technology leaders.
+
+What you'll bring:
+• 5+ years of experience in building large-scale retail demand forecasting, markdowns,etc. models with deep learning and other ML models.
+• Experience in leading a team of full-stack data scientists and delivering ML models to engineering team.
+• Experience in building modular, re-usable, and scalable ML models and leveraging best practices in MLOps.
+• 5+ Experience with SQL, Python, CPLex, and Cloud technologies such as GCP, Azure as well as with Spark, Hive and TensorFlow etc.
+• 5+ years of experience working in highly matrixed organization
+• 5+ Years of experience in leading large teams of direct reports.
+• Passionate to connect with business users to get more insights about customer and business demands.
+• Superior communication, presentation and influencing skills
+
+About Walmart Global Tech
+Imagine working in an environment where one line of code can make life easier for hundreds of millions of people. That's what we do at Walmart Global Tech. We're a team of software engineers, data scientists, cybersecurity expert's and service professionals within the world's leading retailer who make an epic impact and are at the forefront of the next retail disruption. People are why we innovate, and people power our innovations. We are people-led and tech-empowered. We train our team in the skillsets of the future and bring in experts like you to help us grow. We have roles for those chasing their first opportunity as well as those looking for the opportunity that will define their career. Here, you can kickstart a great career in tech, gain new skills and experience for virtually every industry, or leverage your expertise to innovate at scale, impact millions and reimagine the future of retail.
+
+Flexible, hybrid work:
+We use a hybrid way of working that is primarily in office coupled with virtual when not onsite. Our campuses serve as a hub to enhance collaboration, bring us together for purpose and deliver on business needs. This approach helps us make quicker decisions, remove location barriers across our global team and be more flexible in our personal lives.
+
+Benefits:
+Benefits: Beyond our great compensation package, you can receive incentive awards for your performance. Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more.
+
+Equal Opportunity Employer:
+Walmart, Inc. is an Equal Opportunity Employer - By Choice. We believe we are best equipped to help our associates, customers and the communities we serve live better when we really know them. That means understanding, respecting and valuing diversity- unique styles, experiences, identities, ideas and opinions - while being inclusive of all people.
+
+The above information has been designed to indicate the general nature and level of work performed in the role. It is not designed to contain or be interpreted as a comprehensive inventory of all responsibilities and qualifications required of employees assigned to this job. The full Job Description can be made available as part of the hiring process.
+
+Minimum Qualifications...
+
+Outlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.
+
+Option 1: Bachelors degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology or related field and 6 years' experience in an analytics related field.
+Option 2: Masters degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology or related field and 4 years' experience in an analytics related field.
+Option 3: 8 years' experience in an analytics or related field
+
+Preferred Qualifications...
+
+Outlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.
+
+Data science, machine learning, optimization models, PhD in Machine Learning, Computer Science, Information Technology, Operations Research, Statistics, Applied Mathematics, Econometrics, Successful completion of one or more assessments in Python, Spark, Scala, or R, Supervisory experience, Using open source frameworks (for example, scikit learn, tensorflow, torch)
+
+Primary Location...
+805 SE MOBERLY LN, BENTONVILLE, AR 72712, United States of America",Farmington,US,1970-01-01,Retail
+http://www.tekstream.com,G5u3PQ08NYvHPvWYAAAAAA==,FULLTIME,Data Scientist,https://www.linkedin.com/jobs/view/data-scientist-at-tekstream-solutions-3785089591,"MUST BE ABLE TO OBTAIN U.S. PUBLIC TRUST
+
+Requirements:
+• 5 years of recent professional experience in data science, data mining, data analysis, business process analysis, and/or healthcare analytics.
+• Experience with Azure Data Lake Storage, Azure Data Factory, Azure SQL DW, Azure Synapse, Databricks, Spark, and/or Python Predictive Modeling: Linear, logistic regressions, Ordinary Least Squares, Decision Trees / K-means clustering, K-nearest neighbors, Hierarchal clustering.
+• Prefer at least 3-5 years working with Machine Learning and/or Natural Language Processing (in particular, Named Entity Recognition, Deep Learning, Neural Networks, Image Processing, NLP, Spark, TensorFlow) methodologies.
+• Prefer at least 3-5 years of programming experience: SQL, Python (Pandas, Py Spark, Py Tourch).
+• Prefer at least 3-5 years of experience using Machine Learning tools, deploying models, and deploying software in Azure (certification preferred).
+• Experience with Databases: SQL (MySQL, SQLite, PostgreSQL, T-SQL) Data Lake.
+• Experience with Data Visualization: Tableau, Power BI.
+• Experience with Version Control: Git, GitHub, Confluence.
+• Data Science Methods: Problem Identification, Data Mining, Wrangling, Analytics, EDA, FeatureEngineering, Modeling, Report Writing.
+• Experience with ML Applications, end to end process (Local & cloud development).
+• Experience with ML Models (Classical models • Deep Learning (text, audio, images).
+• Model pipelines and deployment • AutoML • MLFlow • Databricks.",,US,1970-01-01,
+,HgHDQITU9GQguas6AAAAAA==,FULLTIME,Data Scientist Intern / Data Analyst Intern,https://www.linkedin.com/jobs/view/data-scientist-intern-data-analyst-intern-at-iquest-solutions-corporation-3780742414,"Job Title: Data Scientist Intern / Data Analyst Intern
+
+Location: Texas, Remote
+
+About Us
+
+We are a dynamic and innovative IQuest solutions seeking a talented Data Scientist/Data Analyst Intern to join our growing team. As a key contributor to our data-driven initiatives, you will work on a variety of projects leveraging your skills in Python, SQL, Big Data, Machine Learning, Deep Learning, Natural Language Processing, Computer Vision and Generative AI.
+
+Responsibilities
+• Work collaboratively with cross-functional teams to gather and analyse data requirements.
+• Leverage tools like Jupyter Notebooks, Jira, Confluence, GitHub, for agile methodologies and efficient delivery.
+• Utilize Python, SQL, and other relevant tools to clean, transform, and analyse large datasets.
+• Creation of data models and algorithms to fulfil business needs, utilizing data science methodologies, machine learning capabilities and statistics.
+• Contribute to projects involving natural language processing and computer vision.
+• Collaborate in the design and development of data visualization solutions for effective communication of insights.
+• Present findings and recommendations to both technical and non-technical stakeholders.
+• Delivering clean, working, reusable and well-documented code.
+
+Requirements
+• Working knowledge of machine learning techniques and algorithms, such as time series, anomaly detection, Clustering, Association, Deep Learning and Generative AI.
+• Deep understanding of Statistics and Predictive modelling concentrate, machine learning methodologies, clustering and classification techniques and optimization algorithms.
+• Experience with common data science languages, toolkits and libraries, such as R, Python (NumPy, SciPy, Pandas, Matplotlib and scikit-learn).
+• Experience with data cleaning/munging with pandas or similar library.
+• Experience in with SQL scripting.
+• Expertise in creating flask applications and deployment of models over cloud.
+
+Academic And Professional Qualifications
+• Enrolled in or have recently completed Masters or PHD in Data Science, Machine Learning, Computer Science, Applied Mathematics, Statistics, and/or related advanced analytics field.
+• Minimum 2-3 years of related experience, including professional / internship or project based, with exposure to data science concepts, mathematical modelling, algorithm development and computational tools on a variety of platforms, frameworks, and methodologies (i.e., R, Python, Spark (PySpark), SQL, Flask etc)
+
+Bonus Skills
+• Experience with PowerBI, Tableau, and MS Office.
+• Previous exposure to cloud platforms (AWS or GCP).
+
+IQuest Solutions is an equal opportunity employer. We encourage candidates from all backgrounds to apply.",,US,1970-01-01,
+https://www.walmart.com,2V9tOz0TBVxrWC2AAAAAAA==,FULLTIME,"Director, Data Science","https://www.ziprecruiter.com/c/Walmart/Job/Director,-Data-Science/-in-Elkins,AR?jid=555dc4c96511b4a5","Position Summary...
+
+What you'll do...
+
+This role will lead a team of Data Scientists working on building solution for Supply chain and Merchandising domains supporting Walmart International's omni business. Key focus areas will be inventory demand forecasting, pricing, store and modular space and assortment optimization. This position will collaborate closely with the engineering, product, and business teams to deliver generalized, accurate, and scalable models that can serve across markets.
+
+About the Team:
+
+Our team is focused on building forecasting and optimization models to estimate inventory demand and placement, replenishment across supply chain along with building last mile delivery solutions; make pricing, markdown and promotions recommendations; and build optimization models for assortments and space allocations in stores.
+
+Focusing on customer, associate and business needs, this team works with Walmart International, which includes more than 5,200 retail units, operating in 23 countries such as Canada, Central America, Chile, China, India, Mexico and South Africa to name a few.
+
+What you'll do:
+• Planning, harmonizing, and following up on tasks and dependencies that are required to build, test, improve, and deliver scalable models in partnership with 4ITB teams.
+• Mentoring and guiding less-experienced data scientists to build, improve or scale data science models.
+• Define the engineering requirements and align the development priorities with the engineering, product, and business teams.
+• Connect frequently with US and market teams who are/will be users of the products and capture their requirements to reflect them in our roadmap and future releases.
+• Present the current metrics and plans to improve them to business and technology leaders.
+
+What you'll bring:
+• 5+ years of experience in building large-scale retail demand forecasting, markdowns,etc. models with deep learning and other ML models.
+• Experience in leading a team of full-stack data scientists and delivering ML models to engineering team.
+• Experience in building modular, re-usable, and scalable ML models and leveraging best practices in MLOps.
+• 5+ Experience with SQL, Python, CPLex, and Cloud technologies such as GCP, Azure as well as with Spark, Hive and TensorFlow etc.
+• 5+ years of experience working in highly matrixed organization
+• 5+ Years of experience in leading large teams of direct reports.
+• Passionate to connect with business users to get more insights about customer and business demands.
+• Superior communication, presentation and influencing skills
+
+About Walmart Global Tech
+Imagine working in an environment where one line of code can make life easier for hundreds of millions of people. That's what we do at Walmart Global Tech. We're a team of software engineers, data scientists, cybersecurity expert's and service professionals within the world's leading retailer who make an epic impact and are at the forefront of the next retail disruption. People are why we innovate, and people power our innovations. We are people-led and tech-empowered. We train our team in the skillsets of the future and bring in experts like you to help us grow. We have roles for those chasing their first opportunity as well as those looking for the opportunity that will define their career. Here, you can kickstart a great career in tech, gain new skills and experience for virtually every industry, or leverage your expertise to innovate at scale, impact millions and reimagine the future of retail.
+
+Flexible, hybrid work:
+We use a hybrid way of working that is primarily in office coupled with virtual when not onsite. Our campuses serve as a hub to enhance collaboration, bring us together for purpose and deliver on business needs. This approach helps us make quicker decisions, remove location barriers across our global team and be more flexible in our personal lives.
+
+Benefits:
+Benefits: Beyond our great compensation package, you can receive incentive awards for your performance. Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more.
+
+Equal Opportunity Employer:
+Walmart, Inc. is an Equal Opportunity Employer - By Choice. We believe we are best equipped to help our associates, customers and the communities we serve live better when we really know them. That means understanding, respecting and valuing diversity- unique styles, experiences, identities, ideas and opinions - while being inclusive of all people.
+
+The above information has been designed to indicate the general nature and level of work performed in the role. It is not designed to contain or be interpreted as a comprehensive inventory of all responsibilities and qualifications required of employees assigned to this job. The full Job Description can be made available as part of the hiring process.
+
+Minimum Qualifications...
+
+Outlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.
+
+Option 1: Bachelors degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology or related field and 6 years' experience in an analytics related field.
+Option 2: Masters degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology or related field and 4 years' experience in an analytics related field.
+Option 3: 8 years' experience in an analytics or related field
+
+Preferred Qualifications...
+
+Outlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.
+
+Data science, machine learning, optimization models, PhD in Machine Learning, Computer Science, Information Technology, Operations Research, Statistics, Applied Mathematics, Econometrics, Successful completion of one or more assessments in Python, Spark, Scala, or R, Supervisory experience, Using open source frameworks (for example, scikit learn, tensorflow, torch)
+
+Primary Location...
+805 SE MOBERLY LN, BENTONVILLE, AR 72712, United States of America",Elkins,US,1970-01-01,Retail
+http://www.kochind.com,-bdUo4ofKQzr-QeaAAAAAA==,FULLTIME,Data Scientist,https://www.linkedin.com/jobs/view/data-scientist-at-koch-industries-3756945258,"Your Job
+
+We are seeking a motivated and innovative Data Scientist to help advance our HR Analytics journey in support of our vision. A successful candidate will bring advanced knowledge of best-in-class data science methodologies, deep understanding of AI/ML space, proven track record of solving business problems using data science and ability to work with global teams to deliver and execute complex analytics problems. You must be enthusiastically collaborative, value seeking, open to challenge and be challenged with new ideas and established approaches with an appetite for learning and innovation.
+
+Our Team
+
+This role is part of the Global KGS HR Technology organization requiring excellent communication and collaboration skills with other technical groups as well as business leaders. You will work with Business HR partners and leaders to develop and implement advanced analytics solutions to capture unmet opportunities and create value for our customers.
+
+What You Will Do
+• Exhibits a can-do, growth mindset, consistently pursuing skill enhancement and enthusiastically tackling new challenges to drive advancement of business and data science capabilities
+• Communicate with clients to understand the challenges they face and explore data driven solutions
+• Exploring and extracting data from multiple sources and interrogate it to discover trends and patterns, creating meaningful insights
+• Assess the effectiveness and accuracy of new data sources and data gathering techniques
+• Programs data science and analytics solutions in languages such as Python, R
+• Applies strong knowledge of statistics and mathematics including hypothesis testing, probability and regression for making informed decisions based on data
+• Researching, developing, and deploying machine learning models (supervised and unsupervised) to deliver predictive analytics
+• Maintaining and improving the machine learning pipelines, processes and products
+• Design/Develops data visualizations for effectively communicating data findings to both technical and non-technical audiences
+• Develop processes and tools to monitor and analyze model performance and data accuracy.
+• Provide best practices and guidance to other team members on data science projects.
+
+Who You Are (Basic Qualifications)
+• 3+ years of experience on the whole life cycle of machine learning (ML) model building for solving real-world complex problems.
+• Experience in Data Analysis techniques, EDA, Data Visualization to effectively communicate to stakeholders, clarify requirements and make effective suggestions to achieve business values.
+• Experience in Time Series Forecasting /Tree based models/and linear models.
+• 3+ years of experience in SQL coding, python programming skills coupled with demonstrable experience using data science packages (numpy, pandas, sklearn, etc.)
+• Knowledge of bringing machine learning models from prototype to production.
+
+What Will Put You Ahead
+• Experience working in HR/Recruiting/Talent analytics
+• Bachelor or Masters degree in a quantitative field such as Finance, Mathematics, Analytics, Data Science, Computer Science, Engineering or relevant work experience
+
+At Koch companies, we are entrepreneurs. This means we openly challenge the status quo, find new ways to create value and get rewarded for our individual contributions. Any compensation range provided for a role is an estimate determined by available market data. The actual amount may be higher or lower than the range provided considering each candidate's knowledge, skills, abilities, and geographic location. If you have questions, please speak to your recruiter about the flexibility and detail of our compensation philosophy.
+
+Hiring Philosophy
+
+All Koch companies value diversity of thought, perspectives, aptitudes, experiences, and backgrounds. We are Military Ready and Second Chance employers. Learn more about our hiring philosophy here.
+
+Who We Are
+
+As a Koch company, Koch Global Services (KGS) creates solutions spanning technology, human resources, finance, project management and anything else our businesses need. With locations in India, Mexico, Poland and the United States, our employees have the opportunity to make a global impact.
+
+At Koch, employees are empowered to do what they do best to make life better. Learn how our business philosophy helps employees unleash their potential while creating value for themselves and the company.
+
+Our Benefits
+
+Our goal is for each employee, and their families, to live fulfilling and healthy lives. We provide essential resources and support to build and maintain physical, financial, and emotional strength - focusing on overall wellbeing so you can focus on what matters most. Our benefits plan includes - medical, dental, vision, flexible spending and health savings accounts, life insurance, ADD, disability, retirement, paid vacation/time off, educational assistance, and may also include infertility assistance, paid parental leave and adoption assistance. Specific eligibility criteria is set by the applicable Summary Plan Description, policy or guideline and benefits may vary by geographic region. If you have questions on what benefits apply to you, please speak to your recruiter.
+
+Equal Opportunities
+
+Equal Opportunity Employer, including disability and protected veteran status. Except where prohibited by state law, all offers of employment are conditioned upon successfully passing a drug test. This employer uses E-Verify. Please visit the following website for additional information: http://www.kochcareers.com/doc/Everify.pdf",Wichita,US,1970-01-01,Manufacturing
+http://www.airbnb.com,Zd8HfTwoeNdr9ulfAAAAAA==,FULLTIME,"Staff Data Scientist - Inference, Marketplace",https://www.linkedin.com/jobs/view/staff-data-scientist-inference-marketplace-at-airbnb-3780054954,"Airbnb was born in 2007 when two Hosts welcomed three guests to their San Francisco home, and has since grown to over 4 million Hosts who have welcomed more than 1 billion guest arrivals in almost every country across the globe. Every day, Hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+
+The Community You Will Join
+
+We are looking for a Staff Data Scientist to join the Marketplace data science team. The Marketplace data science team aims to create a welfare-maximizing marketplace that balances guest and host needs. We do this by designing cancellation and fee policies, building models to power personalized pricing and insights tools for hosts, and building fundamental marketplace intelligence to better match hosts and guests.
+
+The Difference You Will Make
+
+We are looking for an experienced data scientist to help design our marketplace with a particular focus on cancellations.
+
+A Typical Day
+• Design the future of the cancellation policy ecosystem for our hosts and guests.
+• Build causal and ML models.
+• Build framework and design experiments to help trade off bookings, cancellations, CS tickets among many metrics to consider.
+
+Your Expertise
+• 8+ years industry experience in a quantitative analysis role.
+• Background in economics, statistics and experimentation or acquired deep knowledge in this area.
+• Understanding of ML lifecycle best practices (eg. training/serving, feature engineering, feature/model selection, labeling, A/B test).
+• Ability to communicate clearly and effectively to cross functional partners of varying technical levels.
+• Ability to translate complex findings and results into a compelling narrative.
+• Demonstrated ability to create and drive technical and impactful roadmaps for the business, and lead seamless execution of it.
+• Strong fluency in Python and SQL, experience with Tensorflow, PyTorch, Airflow and data warehouse.
+
+Preferred Expertise
+• Ph.D. in Economics or related field.
+• Experience in cancellation policy design is a plus.
+
+Your Location:
+
+This position is US - Remote Eligible. The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. While the position is Remote Eligible, you must live in a state where Airbnb, Inc. has a registered entity. Click here for the up-to-date list of excluded states. This list is continuously evolving, so please check back with us if the state you live in is on the exclusion list. If your position is employed by another Airbnb entity, your recruiter will inform you what states you are eligible to work from.
+
+Our Commitment To Inclusion & Belonging
+
+Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
+
+We strive to also provide a disability inclusive application and interview process. If you are a candidate with a disability and require reasonable accommodation in order to submit an application, please contact us at: reasonableaccommodations@airbnb.com. Please include your full name, the role you’re applying for and the accommodation necessary to assist you with the recruiting process.
+
+We ask that you only reach out to us if you are a candidate whose disability prevents you from being able to complete our online application.
+
+How We'll Take Care Of You
+
+Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.
+
+Pay Range
+
+$185,000—$245,000 USD",,US,1970-01-01,
+http://www.altamiracorp.com,Bzc3dkCQkZ4SxMkCAAAAAA==,FULLTIME,Data Scientist,https://www.linkedin.com/jobs/view/data-scientist-at-altamira-technologies-corporation-3791119653,"Description
+
+Altamira Technologies has a long and successful history providing innovative solutions throughout the U.S. National Security community. Headquartered in McLean, Virginia, Altamira serves the defense, intelligence and homeland security communities worldwide by focusing on creating innovative solutions leveraging common standards in architecture, data and security. Altamira believes that our people and the culture of our company differentiate us from other companies.
+
+Position Location: McLean,Virginia
+
+Position Description : We are seeking Data Scientists that possess a mix of talent areas related to Data Science, Data Analytics, Machine Learning (ML), and Artificial Intelligence (AI). As part of our team, you will perform low-TRL research using innovative techniques under the guidance of a PI . Our ideal candidate would also be familiar with training and testing computer vision models across multiple data sets. These tasks will often involve the usage of the Python programming language to facilitate training and analysis. Altamira Technologies Corporation encourages independent problem solving but also provides deep reach-back support and a collaborative environment for our data science team. We are looking for candidates who have experience with data science and are not afraid to adapt to the right architecture, languages, and libraries to yield the best analytical results for the mission.
+
+Role And Responsibilities
+• Interact with teammates though whiteboard sessions and/or design documents to establish circular feedback
+• Aid in the design and implementation of machine learning, data mining, data fusion, and data engineering techniques
+• Improve existing techniques and devise new techniques to solve data science problems
+• Identify and articulate strengths and weaknesses of solutions, conclusions and problem approaches during technical discussions
+
+Education And Experience
+• Bachelor’s degree in STEM field (Statistics, Physics, Computer Science, Mathematics, Electrical Engineering, or similar)
+• Demonstrated experience developing in either Python or R
+• Desire to learn machine learning, statistics and/or data mining techniques
+• Excitement about learning new technical subject areas and curiosity about cyber security and big data problems
+
+Abilities And Competencies
+• Ability to obtain TS/SCI clearance with Polygraph
+• Self-motivated and eager to work intently to satisfy mission requirements
+• Adaptable and has the desire to maintain our company culture
+• Ability to effectively communicate in verbal and written communications
+• Ability to multitask and adjust priorities as needed",,US,1970-01-01,
+,8VeJwvGF-XtG_Q6CAAAAAA==,FULLTIME,Data Scientist - Neurodegenerative Disease,https://www.linkedin.com/jobs/view/data-scientist-neurodegenerative-disease-at-octave-3776635441,"Octave Bioscience is developing a suite of novel measurement tools that feed into structured analytical data models aimed at improving care management decisions to create better patient outcomes at lower costs. We are focusing our efforts on neurodegenerative disease, starting with multiple sclerosis (MS), to bring direct, positive impact to people’s lives. We are delighted to be expanding our work to Parkinson’s Disease (PD) as the next neurodegenerative disease to tackle.
+
+As a team, we constantly learn together and seek new solutions, operating in areas that are unknown. We share a common mission and build our flywheel from the diverse backgrounds of our collaborators.
+
+To develop our quantitative capabilities, we are seeking a data scientist to help deliver solutions across very diverse data sets. We are seeking a candidate with strong expertise in bioinformatics, data analytics, and machine learning/artificial intelligence capabilities. The data scientist will be primarily responsible for providing recommendations and delivering actionable insights in our proteomic biomarker program. The ideal candidate should have a strong statistical and machine learning background (with experience in applications to biology), as well as good collaboration, documentation and communication skills. Our mission requires constant iteration of the company’s approach to both biology and data science as well as passion to work in a regulated healthcare environment.
+
+Responsibilities
+
+● Accountable for the development of data analytics tools, predictive models, and emergent insight capabilities that make use of complementary and complex data sets.
+
+● Use software tools to build algorithms and models, and draw actionable insights from large data sets.
+
+● Build predictive models across multiple areas of interest with a strong emphasis on biology of neurodegenerative diseases.
+
+Technical Skills
+
+● Minimum:
+
+● Experience with analysis of large scale proteomic and/or genomic data sets
+
+● Experience with supervised and unsupervised machine learning approaches, including but not limited to classification, regression, clustering, and other forms of anomaly detection/pattern recognition
+
+● Direct experience with coding in Python or R
+
+● Comfortable dealing with dimensionality reduction, cross validation, and augmentation of small datasets under uncertainty
+
+● Experience in using warehousing, data lake and big data tools (e. g., S3, Apache Spark, BigQuery, Hadoop)
+
+● Experience interpreting biological statistics and translating them to clear relationships of clinical outcomes for clinical and business stakeholders
+
+● Self-driven and intellectually curious to solve challenging problems
+
+● Collaborate with multiple teams (internally and externally)
+
+● Strong team player willing to learn new platforms and tools
+
+● Preferred:
+
+● Experience with Databricks
+
+● Experience in modeling biochemical networks, especially at the cellular and protein level
+
+● Preparation and presentation of journal manuscripts, research papers, posters, at scientific and academic conferences
+
+● Familiarity with brain neurophysiology and modeling mammalian cells like neurons
+
+● Familiarity with neurodegenerative disease pathophysiology, specifically Parkinson's
+
+● Experience in artificial neural networks (including convolutional) methodologies and technologies (Spark, TensorFlow, Keras, etc)
+
+● Experience in visualization tools (e.g., Candela, Periscope, Spark, D3, Google Chart, ggplot, Tableau)
+
+Qualifications
+
+● Minimum:
+
+● Master of Science in Computer Science, Biology or in a related science, technology, engineering, or pure/applied math discipline
+
+● Experience and passion to work in a fast-paced agile engineering environment and start-up
+
+● Dedication and perseverance to find insights and data-driven predictive solutions
+
+● Preferred:
+
+● A background in computational and/or systems biology
+
+● Experience working in the life science industry - therapeutic development, diagnostics, companion diagnostics
+
+● PhD in Computer Science or in STEM Majors (Science, Technology, Engineering and Math)
+
+● Direct experience with compliance to ISO 13485, 62304, 27000, GDPR, HIPAA, CLIA, FDA 510K, SaaMD, 21 CFR part 11, or other industry related regulations/standards.
+
+About Us
+
+Octave offers a balanced and flexible working environment. Our offices are located in Menlo Park, surrounded by life science innovators (e.g. Grail) and tech innovators (e.g Meta). Our space is newly built to our specifications: open, with an old factory vibe, and is well-appointed, with free drinks and snacks. We offer a choice of health, dental, and vision plans. World class gym 100 feet away with a pool. Close to many commute options, including a free shuttle service with many convenient routes. We also offer lunch once a week at the office that you can pre-select from a large menu.
+
+At Octave, we believe in providing exceptional compensation packages for exceptional work. We are intentional about benchmarking our compensation against current market rates, and providing continued opportunity for advancement within the organization.
+
+The salary range for this role takes into account the wide range of factors that are considered in making compensation decisions including skill sets; experience and training; licensure and certifications; and other business and organizational needs. Our salary ranges are determined by role, level, and location. The disclosed range estimate has not been adjusted for any applicable geographic differential associated with the location at which the position may be filled. At Octave, it is not typical for an individual to be hired at or near the top of the range for their role and compensation decisions are dependent on the facts and circumstances of each case. A reasonable estimate of the current range is $150,000 to $200,000 per year.
+
+You may also be eligible to participate in a discretionary annual incentive program, subject to the rules governing the program, whereby an award, if any, depends on various factors, including, without limitation, individual and organizational performance. Please note that the compensation details listed in posting reflect the base salary only, and do not include bonus, equity, or benefits.
+
+WE ARE AN EQUAL OPPORTUNITY EMPLOYER. Applicants and employees are considered for positions and are evaluated without regard to mental or physical disability, race, color, religion, gender, national origin, age, genetic information, military or veteran status, sexual orientation, marital status or any other protected Federal, State/Province or Local status unrelated to the performance of the work involved.",,US,1970-01-01,
+http://www.leidos.com,I9j_760c_l5h1nhyAAAAAA==,FULLTIME,Geospatial Data Scientist,https://www.linkedin.com/jobs/view/geospatial-data-scientist-at-leidos-3777401130,"Description
+
+Leidos supporting the National Energy Technology Laboratory (NETL) is seeking a Geospatial Data Scientist to join our team. This is an opportunity to execute fundamental and applied research with world-class scientists and engineers using state of the art equipment to perform research aligned with the goals of the U.S. Department of Energy, including carbon management, critical minerals, and energy infrastructure analytics.
+
+This position is required to work on site 3 days a week at the lab in Albany, OR (preferred) or Morgantown, WV. The other 2 days may be worked from their local home office. This is not a fully remote position. Applicants not in the Albany, OR or Morgantown, WV area or willing to relocate to the Albany, OR or Morgantown, WV area will not be considered.
+
+Primary Responsibilities
+• Support the identification, acquisition, processing, and integration of non-spatial and spatial data using Geographic Information System (GIS) software.
+• Identify credible data sources through extensive literature reviews and online research, then acquire and process data for further analytics.
+• Support quality assurance and control of geospatial data products and associated metadata prior to public release.
+• Support energy research by leveraging scientific, spatial, statistical analytics, as well as appropriate artificial intelligence and machine learning algorithms.
+• Collaborate with interdisciplinary team, including geologists, geographers, chemists, computer scientists, environmental scientists, and other researchers to accomplish project related tasks.
+• Build and maintain relationships with internal and external clients.
+• Assist in writing methods, results, and data interpretations for publications in high quality, scientific peer-reviewed journals, and technical reports.
+• Develop and present results for oral or poster presentation at staff meetings and professional conferences.
+• Provide weekly and monthly technical updates to research team members and project management.
+
+Required Education & Experience
+• Bachelor's degree in Geology, Geography, Geospatial Information Sciences, Environmental Sciences, or related field with 2+ years of research experience, or a Master’s degree in Geology, Geography, Geospatial Information Sciences, Environmental Sciences, or related field with 1+ years of research experience.
+• Competent in non-spatial and spatial data acquisition, management, handling, and analytics using GIS software.
+• Familiar with Esri products (i.e., ArcPro, ArcEnterprise, ArcGIS Online) and other open-source GIS software (i.e., QGIS).
+• Experience developing Esri web applications, including Experience Builder, Dashboards, Survey123, and Story Maps.
+• Experience working with vector and raster subsurface data, including wellbore attributes, geologic maps, geochemical samples, geophysical, and other critical energy infrastructure datasets.
+
+Other Requirements
+• Must be able to meet the requirements for gaining access to work on the NETL campus.
+• Must be a U.S. Citizen
+
+Preferred Qualifications
+• Background knowledge or interest in learning about critical mineral resources and (geologic) carbon capture and storage (CCS).
+• Familiarity with geologic industry (i.e., oil and gas, mining) software, including but not limited to Petra, Petrel, EarthVision, Leapfrog, or OpendTect.
+• Familiarity with GIS and related python libraries (i.e. ArcPy, GDAL/OGR, Pandas, etc.).
+• Selecting and applying appropriate spatial and statistical analyses for a variety of use cases.
+• Writing and publishing scientific reports and presenting results at conferences and workshops.
+• Communicating work to a range of audiences (I.e., academic conference, technical audience, or management).
+• Collaborating on a dynamic, interdisciplinary team.
+
+Salary Range for this position: $75K to $90K
+
+Pay Range
+
+Pay Range $65,000.00 - $117,500.00
+
+The Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.
+
+Original Posting Date
+
+12/21/2023
+
+While subject to change based on business needs, Leidos reasonably anticipates that this job requisition will remain open for at least 3 days with an anticipated close date of no earlier than 3 days after the original posting date as listed above.",,US,1970-01-01,Computer Services
+http://www.rocketsoftware.com,X3db6o3njkFzOj0nAAAAAA==,FULLTIME,Principal Data Scientist,https://www.linkedin.com/jobs/view/principal-data-scientist-at-rocket-software-3694000624,"It's fun to work in a company where people truly BELIEVE in what they're doing!
+
+Job Description Summary:
+
+Job Overview:
+
+Rocket's Data Modernization Business Unit aids customers in managing, governing, and maximizing the value of their enterprise data assets. Our clientele comprises many Fortune 500 companies, including some of the world's largest banks, insurance companies, and manufacturing organizations. We are currently seeking motivated and innovative individuals to join our applied machine learning team. This is an opportunity to play a crucial role in the continued evolution of our world-class solutions.
+
+The Principal Data Scientist is a highly motivated and experienced individual proficient in advanced machine learning models, particularly language models, document understanding and analysis, and code generation. The role will involve understanding and adapting current research. The position requires a deep understanding of computational linguistics, image processing, and Python programming. The selected candidate will be part of a collaborative team dedicated to building, fine-tuning, and deploying state-of-the-art models to solve real-world problems in information management, data intelligence, content automation, audit, and analytics. This presents an opportunity to create tremendous business value as we assemble a world-class applied machine learning team.
+
+You will set the team up for success, defining best practices, illustrating canonical methods, designing roadmaps, and recommending the best technologies for the task at hand.
+
+Essential Duties and Responsibilities:
+• Lead specification, design, and implementation of advanced analytics projects.
+• Influencing decisions at all levels of the organization.
+• Managing deliverables across multiple projects in a deadline-driven environment and project related to a wide variety of business settings and clinical needs.
+• Stay abreast and evaluate the latest in AI research and technologies and determine how to incorporate these into our data science best practices.
+• Consult with key internal and external stakeholders to understand and frame model requirements and potential applications.
+• Design, develop, and deploy machine learning models using tools and platforms optimized for distributed machine learning.
+• Recommend ongoing improvements to methods and algorithms that lead to findings, including new information.
+• Collaborate closely with software engineers to integrate the trained models into end-user applications.
+• Develop sound analytic plans based on available data sources, business partner needs, and required timelines.
+• Manage deliverables across multiple projects in a deadline-driven environment and project related to a wide variety of business settings.
+• Present results, insights, and recommendations to both technical and non-technical stakeholders.
+
+Required Qualifications:
+• 10+ years of industry experience.
+• Experience in professional management of junior data scientists within projects and their continuous professional development.
+• Expertise in Python, Linux, and ML, familiarity with SQL.
+• Demonstrated ability to find creative and practical solutions to complex problems.
+• Proven experience in applying Data Science methodologies to extract, process, and transform data from multiple sources.
+• Demonstrated ability to deliver outputs in a comprehensive format that highlights major trends, avoids misinterpretations and values the conclusions.
+• A quick learner, highly adaptable to the needs of internal collaborators in a dynamic environment.
+• Efficiency in managing multiple projects.
+• Excellent communication and interpersonal skills.
+• Must be able to work in a team-oriented environment.
+
+Preferred Qualifications:
+• PhD in Statistics, Computer Science, Mathematics, Economics or directly related fields is a plus.
+
+Education:
+
+Master’s degree in Statistics, Computer Science, Economics or directly related field
+
+Information Security:
+
+Information security is everyone’s responsibility. A fundamental principle of information security at Rocket Software is that all individuals in the organization have a responsibility for the security and protection of company information and IT Resources over which they have control, according to their role.
+
+Diversity, Inclusion & Equity:
+
+At Rocket we are committed to an inclusive workplace environment, where every Rocketeer can thrive by bringing their full selves to work. Being a Rocketeer means you are part of our movement to continually drive inclusivity, diversity and equity in our workforce.
+
+The base salary range for this role is $144,200.00 - $180,250.00 /year. Exact compensation may vary based on skills, experience, and location.
+
+What Rocket Software can offer you in USA:
+• Extensive paid time off programs (paid holidays, sick, and unlimited vacation time)
+• Healthcare coverage options to fit you (and your family’s) needs
+• Retirement savings, with matching contributions by Rocket Software
+• Life and disability coverage
+• Leadership and skills training opportunities
+• Two paid work days for off-site training
+
+Rocket Software Inc. is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. Rocket Software Inc. is also committed to compliance with all fair employment practices regarding citizenship and immigration status.
+
+Rocket is committed to working with and providing reasonable accommodation to individuals with physical and mental disabilities. If you need special assistance or an accommodation while seeking employment, please call: 781-577-4321 or send an email to people@rocketsoftware.com. We will make a determination on your request for reasonable accommodation on a case-by-case basis.
+
+If you like wild growth and working with happy, enthusiastic over-achievers, you'll enjoy your career with us!",,US,1970-01-01,Information
+http://www.keyence.com,mkSkqWWNP3p7Gbk5AAAAAA==,FULLTIME,Entry-Level Business Intelligence Associate,https://ai-jobs.net/job/105875-entry-level-business-intelligence-associate/,"Entry-Level Business Intelligence Associate This position is located at our Headquarter building in Itasca, IL. At KEYENCE, we never settle. We aim to change the status quo for society and for the world, one product at a time. We are a global leader in industrial automation with the ability to add value to customers in all aspects of manufacturing, research, and design. Our strict promote from within policy puts pressure on our organization to continue developing new managers so we can expand our business and provide lucrative careers for our employees. We hire talented individuals who push themselves and our organization to get to the next level. Keyence is seeking an entry-level Business Intelligence Associate for the Data Analytics and Governance (DAG) department. We are looking for someone open and ready to collaborate with other team members and departments. You will help inform business strategies, manage various assigned projects, and identify new analytical opportunities. You should have strong communication skills, time management skills, and be proactive in identifying new areas for opportunity and growth. Responsibilities and Duties Act as liaison between the Database Administration teams and Business Units Build, manage, and optimize reports to drive actions and user insights Perform Ad Hoc analysis based on Business Unit needs Become an internal data and BI subject matter expert Other duties and projects as assigned Requirements and Qualifications Bachelor’s degree in Business Analytics, Statistics, or relevant field. Experience with Excel, Tableau, or comparable Data Visualization Tools High Level of Integrity. This role requires appropriate handling of confidential and sensitive Information. Analytically Focused. You’ll be required to develop Tableau based reports and visualizations while also identifying areas where additional data can provide insights. Highly motivated and responsible for self-learning. You will be expected to continuously improve your skillset over the course of your career. Time management Skills. Proven ability to manage multiple tasks at a time and ability to meet deadlines. Good Communication Skills. Ability to communicate ideas clearly both orally and in writing. Highly organized with a strong attention to detail. Business Units will rely on your work to make strategic decisions. Team player and composure. You’ll be required to collaborate with other groups and with variable deadlines its imperative that the new member can remain calm while under pressure. KEYENCE is an at-will, Equal Opportunity Employer. The Company does not sponsor applicants for work visa.",,US,1970-01-01,Manufacturing
+http://www.classy.org,jfXUb5vyu5xz4DvnAAAAAA==,FULLTIME,Staff Data Scientist,https://www.linkedin.com/jobs/view/staff-data-scientist-at-classy-3763399896,"Classy, an affiliate of GoFundMe, is a Public Benefit Corporation and giving platform that enables nonprofits to connect supporters with the causes they care about. Classy's platform provides powerful and intuitive fundraising tools to convert and retain donors. Since 2011, Classy has helped nonprofits mobilize and empower the world for good by helping them raise over $5 billion. Classy also hosts the Collaborative conference and the Classy Awards to spotlight the innovative work nonprofits are implementing around the globe. For more information, visit www.classy.org.
+
+About the role:
+
+Join us! The Classy team is searching for our next Staff Data Scientist to develop cutting edge predictive and machine learning data products. You will collaborate with an accomplished team of individuals to drive impact for our users and our business.
+
+What you’ll accomplish:
+• Provide technical leadership and be responsible for guiding the development of statistical and machine learning models
+• Perform research and analytics to identify key drivers of donor giving behavior
+• Work closely with other data scientists, machine learning engineers, product managers, and business stakeholders to successfully implement machine learning projects.
+• Collaborate with senior leadership to define long-term machine learning strategy, identifying opportunities to leverage data for business growth and customer satisfaction.
+• Lead the design, development and deployment of advanced machine learning models, algorithms, and data pipelines to solve complex problems and improve business processes.
+
+What you bring (Required):
+• 8+ years of hands-on experience in data science, statistics, and/or machine learning with a proven track record of successfully leading complex projects.
+• Experience developing large-scale predictive models that have been deployed into production
+• Python expertise (Pandas, Numpy, Scikit-Learn, Pytorch, Scipy, etc.)
+• Extensive knowledge of machine learning algorithms, including a deep understanding of statistical modeling
+• Regression, classification, and time series predictive modeling expertise
+• Proficiency in SQL and analytical warehouses (Snowflake)
+• Demonstrated ability to elevate the Data Science discipline and foster a collaborative and high-performing environment.
+• Strong analytical and problem-solving skill, with the ability to apply creative solutions to real-world challenges.
+• Comfortable experimenting with and incorporating cutting-edge techniques into our existing system.
+• Excellent verbal and written communication skills, with the ability to convey complex technical concepts to both technical and non-technical stakeholders.
+
+What would be awesome to have (preferred):
+• A Masters or Ph.D. in Computer Science, Economics, Statistics, Data Science or related field is preferred.
+• 2+ years of experience building data products and ML tools for personalizing user experiences
+• Prior experience with pricing predictions and/or time-series forecasting
+
+Why you’ll love it here:
+• Market competitive pay
+• Rich healthcare benefits including employer paid premiums for medical/dental/vision (100% for employee only plans and 85% for employee + dependent plans) and employer HSA contributions.
+• 401(k) retirement plan with company matching
+• Hybrid workplace with fully remote flexibility for many roles
+• Monetary support for new hire setup, hybrid work & wellbeing, family planning, and commuting expenses
+• A variety of mental and wellness programs to support employees
+• Generous paid parental leave and family planning stipend
+• Supportive time off policies including vacation, sick/mental health days, volunteer days, company holidays, and a floating holiday
+• Learning & development and recognition programs
+• Gives Back Program where employees can nominate a fundraiser every month for a donation from the company
+• Inclusion, diversity, equity, and belonging are vital to our priorities and we continue to evolve our strategy to ensure DEI is embedded in all processes and programs at GoFundMe. Our Diversity, Equity, and Inclusion team is always finding new ways for our company to uphold and represent the experiences of all of the people in our organization.
+• Employee resource groups
+• Your work has a real purpose and will help change lives on a global scale.
+• You’ll be a part of a fun, supportive team that works hard and celebrates accomplishments together.
+• We live by our core values: consider everything, do the right thing, spread empathy, delight the customer, and give back.
+• We are a certified Great Place to Work, are growing fast and have incredible opportunities ahead!
+• Our commitment to Sustainability. Classy exists to create a sustainable world for all.
+
+Dedication to Diversity
+
+Classy is working toward building a more diverse and inclusive environment that is representative of individuals of all backgrounds, experiences, and lifestyles, allowing all employees to feel comfortable being their true, authentic selves in a space that enables productivity and meaningful work.
+
+The total annual salary for this full-time position is $135,000 - $180,000 + equity + benefits. As this is a remote position, the salary range was determined by role, level, and possible location across the US. Individual pay is determined by work location and additional factors including job-related skills, experience, and relevant education or training.
+
+Your recruiter can share more about the specific salary range based on your location during the hiring process.
+
+If you require a reasonable accommodation to complete a job application or a job interview or to otherwise participate in the hiring process, please contact us at accommodationrequests@gofundme.com.",,US,1970-01-01,
+http://sparinfosys.com,c55WESDglmq8EfDjAAAAAA==,CONTRACTOR,DATA Scientist,https://www.linkedin.com/jobs/view/data-scientist-at-spar-information-systems-llc-3733288172,"Role –Data Scientist- Conversational Banking AI Training
+
+Location – Merrifield, VA (Remote)
+
+Duration – 12+ Months
+
+Description
+• Experience building and maintaining NLP models.
+• Microsoft Azure Language Studio experience
+• NLP text analytics
+• Prompt engineering experience
+• Ability to look at customer data and being able to take text, clean it up & build on it .
+• Ability to process large data sets and provide actionable results.
+• Experience with: Large language models, NLP/Data science, Machine learning; Azure Bots; AI Chatbot Training
+• Conduct and facilitate User Acceptance Testing by validating the definition of Done.
+• Analyzes and synthesizes internal and external insights and marketplace trends; focus on creating value for members.
+• Produce data-driven analysis to substantiate hypotheses.
+• Familiar with Agile methodologies/principles
+• Advanced analytical and research skills along with experience working with data in a highly analytic environment.
+• Working knowledge of analytics, user experience design and business impact
+• Assist management with integrating usability studies, user research, and market analysis to into product requirements.
+• Serve as an agent of change, looking for new ways to solve membership problems and collaborate as a team.
+
+Contact
+
+Arvind
+
+Arvind.B@sparinfosys.com",,US,1970-01-01,
+http://harnham.com,8SsIwHuLPKXJaGUJAAAAAA==,CONTRACTOR,Data Scientist (Sports),https://www.linkedin.com/jobs/view/data-scientist-sports-at-harnham-3799492641,"Sports Data Scientist
+
+6-month contract
+
+Overview: Work for a leading entertainment company within their sports division. You will help use sophisticated machine learning techniques to impact the sports viewership experience.
+
+Responsibilities:
+• As a sole contributor, take the lead in designing and implementing specialized data science models tailored for sports analytics.
+• Engage in typical data science responsibilities, including identifying data sources, data gathering, model development, testing, and continuous refinement.
+• Leverage expertise in computer vision and language models to enhance the depth and accuracy of sports-related data analysis.
+
+Skills:
+• Python, SQL, PySpark, Databricks
+• Experience building computer vision models
+• Deep knowledge / interest in core sports categories: MLB, NFL, NHL, NBA, etc.",,US,1970-01-01,
