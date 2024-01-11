@@ -114,10 +114,53 @@ def load_json_data():
         print(f"Error: {e}")
 
 # Call the functions
-create_bucket()
-load_json_data()
+# create_bucket()
+# load_json_data()
 print('JSON FILE FINALLY UPLOADED TO S3 BUCKECT')
         
+
+# #STEP 3:DATA TRANSFORMATION
+def transformed_data():
+    # Specify the path to your JSON file and CSV file
+    json_file_path = 'data/raw_data.json'
+    csv_file_path = 'data/transformed_1_data.csv'
+
+    # Initialize an empty list to store JSON objects
+    records = []
+    required_data = ['employer_website', 'job_id', 'job_employment_type', 'job_title', 'job_apply_link',
+                    'job_description', 'job_city', 'job_country', 'job_posted_at_timestamp', 'employer_company_type']
+
+    # Initialize an empty DataFrame
+    df = pd.DataFrame(columns=required_data)
+
+    # Read the JSON file line by line
+    with open(json_file_path, 'r') as xrates_file:
+        for line in xrates_file:
+            try:
+                # Load JSON data for each line
+                record = json.loads(line)
+                records.append(record)
+
+                # Access required data from the JSON object
+                data_to_append = {key: record[key] for key in required_data}
+                df = df.append(data_to_append, ignore_index=True)
+            except json.JSONDecodeError as e:
+                print(f"Error decoding JSON on line: {line}")
+                print(f"Error details: {e}")
+
+    # Print the DataFrame
+    #print(df.head())
+    # ===========TRANSFORMATION STAGE=========
+    df['job_posted_at_timestamp'] = pd.to_datetime(df['job_posted_at_timestamp']).dt.date
+    # print(df['job_posted_at_timestamp'].head())
+
+    # Save the DataFrame to a CSV file
+    df.to_csv(csv_file_path, index=False)
+    print(f"Data has been saved to {csv_file_path}")
+
+transformed_data()
+
+
 
 
 
