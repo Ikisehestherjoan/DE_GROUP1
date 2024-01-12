@@ -214,33 +214,21 @@ def write_to_s3(data):
 # #create_transformed_bucket()
 # csv_data = read_local_csv()
 # write_to_s3(csv_data)
-
-
+#============================================================================================
+        
+        
+# LOADING TO REDSHIFT
 def read_local_csv(file_data):
     csv_data = pd.read_csv(file_data)
     return csv_data
-
-def get_redshift_connection():
-    iam_role = config.get('ARN')
-    user = config.get('USER')
-    password = config.get('PASSWORD')
-    host = config.get('HOST')
-    database_name = config.get('DATABASE_NAME')
-    port = config.get('PORT')
-    transformed_bucket_name=config.get('TRANSFORMED_DATA')
-    conn = psycopg2.connect(f'postgresql://{user}:{password}@{host}:{port}/{database_name}')
-    return conn
-
-def execute_sql(sql_query, conn):
-    conn = get_redshift_connection()
-    cur = conn.cursor() # Creating a cursor object for executing SQL query
-    cur.execute(sql_query)
+        
+def execute_sql(query, conn):
+    # Placeholder for executing SQL queries (replace with your logic)
+    with conn.cursor() as cursor:
+        cursor.execute(query)
     conn.commit()
-    cur.close() # Close cursor
-    conn.close() # Close connection
 
-
-def generate_schema(data, table_name = 'job_data'):
+def generate_schema(data, table_name ='job_data'):
     create_table_statement = f'CREATE TABLE IF NOT EXISTS {table_name}(\n'
     column_type_query = ''
     
@@ -268,21 +256,6 @@ def generate_schema(data, table_name = 'job_data'):
     column_type_query += ');'
     output_query = create_table_statement + column_type_query
     return output_query
-
-
-
 data = read_local_csv('data/transformed_data.csv')
 query =generate_schema(data)
 print(query) # this generate the schema
-
-
-
-
-        
-    
-
-
-
-
-
-
