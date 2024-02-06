@@ -48,6 +48,6 @@ The pipeline will be scheduled to run once a day using Apache Airflow for automa
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/Ikisehestherjoan/DE_GROUP1.git
    cd your-repository
 
